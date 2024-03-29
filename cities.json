@@ -1,0 +1,1640 @@
+[
+  {
+    "state": "SP",
+    "title": "São Paulo",
+    "id": 1,
+    "schedules": [
+      "Domingo: 09:30h"
+    ],
+    "phones": [
+      5511977717789
+    ],
+    "addresses": [
+      {
+        "address": "Av. Corifeu de Azevedo Marques, 137 - Butantã, CEP: 05581-000",
+        "geo": [
+          -23.5699401,
+          -46.7160637
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "João Pessoa",
+    "id": 2,
+    "schedules": [
+      "Terça-feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 09:30h"
+    ],
+    "phones": [
+      5583999126331
+    ],
+    "addresses": [
+      {
+        "address": "Rua Joaquim Borba Filho, 344, CEP: 58053-110",
+        "geo": [
+          -7.1518253,
+          -34.8495431
+        ]
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Caucaia",
+    "id": 3,
+    "schedules": [
+      "Quarta-feira: 19:00h",
+      "Sábado: 19:00h",
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5585985954933
+    ],
+    "addresses": [
+      {
+        "address": "Rua 15 de novembro, 413 - Itambé 1, CEP: 61600-090",
+        "geo": [
+          -3.724009,
+          -38.6528594
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "Pianco",
+    "id": 4,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5583993073073
+    ],
+    "addresses": [
+      {
+        "address": "Rua José Estevam Leite, S/N - Ouro Branco, CEP: 58765-000",
+        "geo": [
+          -7.1980016,
+          -37.9234402
+        ]
+      },
+      {
+        "address": "Rua Silvia Justo Angelo, S/N - Ouro Branco, CEP: 58765-000",
+        "geo": []
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Maracanaú",
+    "id": 5,
+    "schedules": [
+      "Terça-feira: 19:30h",
+      "Domingo: 18:00h"
+    ],
+    "phones": [
+      5585989404089
+    ],
+    "addresses": [
+      {
+        "address": "Rua Sete, 482 - Jereissati, CEP: 61900-320",
+        "geo": [
+          -3.8750659,
+          -38.6185565
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "São Gonçalo do Amarante",
+    "id": 6,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 17:00h"
+    ],
+    "phones": [
+      5584994771508
+    ],
+    "addresses": [
+      {
+        "address": "Rua Mestre Pedro Guajíru, 5 - Santa Terezinha, CEP: 59291-231",
+        "geo": [
+          -5.7871162,
+          -35.338616
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Mossoró",
+    "id": 7,
+    "schedules": [
+      "Quarta-feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 17:00h"
+    ],
+    "phones": [
+      5584999688242
+    ],
+    "addresses": [
+      {
+        "address": "Rua Francisco Nogueira Monte, 74 - Abolição 2, CEP: 59612-140",
+        "geo": [
+          -5.1763013,
+          -37.3578093
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Angicos",
+    "id": 8,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 18:00h"
+    ],
+    "phones": [
+      5584996584567
+    ],
+    "addresses": [
+      {
+        "address": "Rua São José, 246 - Centro, CEP: 59515-000",
+        "geo": [
+          -5.665005,
+          -36.5999193
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Nova Cruz",
+    "id": 9,
+    "schedules": [
+      "Quinta-feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5584981090173
+    ],
+    "addresses": [
+      {
+        "address": "Rua Assis Chateubriand, S/N - São Sebastião, CEP: 59215-000",
+        "geo": []
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "Solânea",
+    "id": 10,
+    "schedules": [
+      "Quarta-feira: 19:30h",
+      "Quinta-feira: 19:30h",
+      "Sábado: 19:30h"
+    ],
+    "phones": [
+      5583991999552
+    ],
+    "addresses": [
+      {
+        "address": "Av. Pedro Augusto de Almeida, S/N, CEP: 58225-000",
+        "geo": [
+          -6.7602215,
+          -35.6569295
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PE",
+    "title": "Petrolina",
+    "id": 11,
+    "schedules": [
+      "Segunda-feira: 19:30h",
+      "Quarta-feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 10:00h"
+    ],
+    "phones": [
+      5587988389872
+    ],
+    "addresses": [
+      {
+        "address": "Av. Eulalia, 261 - Vila Eulalia, CEP: 56331-025",
+        "geo": [
+          -9.3719421,
+          -40.502746
+        ]
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Cabrito",
+    "id": 12,
+    "schedules": [
+      "Segunda a Sexta: 19:00h",
+      "Sábado: 19:00h",
+      "Domingo: 9:00h"
+    ],
+    "phones": [
+      5588997026147 
+    ],
+    "addresses": [
+      {
+        "address": "Sítio Cabrito, S/N - Alto Santo, CEP: 62970-000",
+        "geo": [
+          -5.5210513,
+          -38.2716387
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Pedro Velho",
+    "id": 13,
+    "schedules": [
+      "Terça-feira: 19h30h",
+      "Sábado: 19h30h",
+      "Domingo: 19h30h"
+    ],
+    "phones": [
+      5584981014892
+    ],
+    "addresses": [
+      {
+        "address": "Rua 31 de Março, 158",
+        "geo": [
+          -6.4362448,
+          -35.2189896
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "Guarabira",
+    "id": 14,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 9:00h"
+    ],
+    "phones": [
+      5583987067667
+    ],
+    "addresses": [
+      {
+        "address": "Rua José Bonifácio, 54 - Juá, CEP: 58200-000",
+        "geo": [
+          -6.85077,
+          -35.4876447
+        ]
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Pindoretama",
+    "id": 15,
+    "schedules": [
+      "Sábado: 19:00h"
+    ],
+    "phones": [
+      5585989333420
+    ],
+    "addresses": [
+      {
+        "address": "Rua Padre Edison Silva, 1003 - Centro, CEP: 62860-000",
+        "geo": [
+          -4.0330139,
+          -38.3006351
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Parnamirim",
+    "id": 16,
+    "schedules": [
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5584996458272
+    ],
+    "addresses": [
+      {
+        "address": "Avenida Tenente Cordeiro, 1069 - Boa Esperança, CEP: 59140-001",
+        "geo": [
+          -5.9299622,
+          -35.2634947
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PE",
+    "title": "Recife",
+    "id": 17,
+    "schedules": [
+      "Domingo: 10:00h"
+    ],
+    "phones": [
+      5581988228569,
+      5581999851483
+    ],
+    "addresses": [
+      {
+        "address": "Rua Tomé Gibson, 456 - Pina, CEP: 51011-480",
+        "geo": [
+          -8.0978362,
+          -34.8883225
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "São José do Campestre",
+    "id": 18,
+    "schedules": [
+      "Sábado: 19:30h"
+    ],
+    "phones": [
+      5584999819112
+    ],
+    "addresses": [
+      {
+        "address": "Rua: São José, S/N - Centro, CEP: 59275-000",
+        "geo": [
+          -6.3051144,
+          -35.7076224
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Apodi",
+    "id": 19,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 18:00h"
+    ],
+    "phones": [
+      5584981775008,
+      5584998196732 
+    ],
+    "addresses": [
+      {
+        "address": "Av. Vingt Rosado, 210-A 01 - São Sebastião / Area Urbana, CEP: 597000-000",
+        "geo": [
+          -5.2025011,
+          -37.3203422
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Grossos",
+    "id": 20,
+    "schedules": [
+      "Terça-feira: 19:30h",
+      "Quinta-feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 19:30h"
+    ],
+    "phones": [
+      5584981317477,
+      5584981907416
+    ],
+    "addresses": [
+      {
+        "address": "Rua Expedicionário José Rocha, 433 - Centro, CEP 59675-000",
+        "geo": [
+          -4.9842279,
+          -37.1574022
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Baraúna",
+    "id": 21,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 17:00h"
+    ],
+    "phones": [
+      5584991362735
+    ],
+    "addresses": [
+      {
+        "address": "Rua Macário de Morais, 25 - Centro - CEP: 59695-000",
+        "geo": [
+          -5.0818,
+          -37.6156514
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PE",
+    "title": "Garanhuns",
+    "id": 22,
+    "schedules": [
+      "Quarta-feira: 19:30h",
+      "Domingo: 9:30h"
+    ],
+    "phones": [
+      5581993098502,
+      5587981514330
+    ],
+    "addresses": [
+      {
+        "address": "Rua Mauro de Souza Lima Filho, 472 - Heliópolis, CEP: 55298-175",
+        "geo": [
+          -8.8848689,
+          -36.4719277
+        ]
+      }
+    ]
+  },
+  {
+    "state": "AL",
+    "title": "Penedo",
+    "id": 23,
+    "schedules": [
+      "Quarta-feira: 19:30h",
+      "Domingo: 18:30h"
+    ],
+    "phones": [
+      5582996616891
+    ],
+    "addresses": [
+      {
+        "address": "Rua Santa Catarina, 369 - Dom. Constantino, CEP: 57200-000",
+        "geo": [
+          -10.2824232,
+          -36.5538053
+        ]
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Cascavel",
+    "id": 24,
+    "schedules": [
+      "Domingo: 18:00h"
+    ],
+    "phones": [
+      5585987451832
+    ],
+    "addresses": [
+      {
+        "address": "Rua Francisco Galdino de Souza, 2025, CEP: 62850-000",
+        "geo": [
+          -4.1293382,
+          -38.2379324
+        ]
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Quixadá",
+    "id": 25,
+    "schedules": [
+      "Terca-feira: 17:30h",
+      "Quinta-feira: 19:30h",
+      "Sábado: 19:00h",
+      "Domingo: 18:00h"
+    ],
+    "phones": [
+      5588996704926
+    ],
+    "addresses": [
+      {
+        "address": "Travesa Doutor Francisco Brasileiro, 100 - Centro",
+        "geo": [
+          -4.9675796,
+          -39.0192271
+        ]
+      }
+    ]
+  },
+  {
+    "state": "CE",
+    "title": "Chaval",
+    "id": 26,
+    "schedules": [
+      "Terca-feira: 18:45h",
+      "Quinta-feira: 19:30h",
+      "Sábado: 19:00h",
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5585987288402 
+    ],
+    "addresses": [
+      {
+        "address": "Rua Pastor Jose Pereira dos SAntos, 610 - Centro, CEP: 62420-000",
+        "geo": [
+          -3.037189,
+          -41.2391591
+        ]
+      }
+    ]
+  },
+  {
+    "state": "MT",
+    "title": "Rondonópolis",
+    "id": 27,
+    "schedules": [
+      "Quarta-feira: 19:00h",
+      "Sábado: 19:00h",
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5566992337404 
+    ],
+    "addresses": [
+      {
+        "address": "Rua treze de maio, 74 - Centro, CEP: 78700-160",
+        "geo": [
+          -16.4725768,
+          -54.6280567
+        ]
+      }
+    ]
+  },
+  {
+    "state": "MA",
+    "title": "Codó",
+    "id": 28,
+    "schedules": [
+      "Domingo: 9:30h"
+    ],
+    "phones": [
+      5599982525696
+    ],
+    "addresses": [
+      {
+        "address": "Rua Dr. Ruy Archer, 14 Quadra 179 -  Novo Milênio II, CEP: 65400-000",
+        "geo": [
+          -4.46724,
+          -43.9217195
+        ]
+      }
+    ]
+  },
+  {
+    "state": "AM",
+    "title": "Manaus",
+    "id": 29,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 9:30h"
+    ],
+    "phones": [
+      5592981309437,
+      5592981270238
+    ],
+    "addresses": [
+      {
+        "address": "Avenida Manicoré, 378 - Cachoeirinha, CEP 690651-000",
+        "geo": [
+          -3.1274475,
+          -60.0077665
+        ]
+      }
+    ]
+  },
+  {
+    "state": "MG",
+    "title": "Belo Horizonte",
+    "id": 30,
+    "schedules": [
+      "Domingo: 9:00h"
+    ],
+    "phones": [
+      5531993915528 
+    ],
+    "addresses": [
+      {
+        "address": "Rua das Macieiras, 100 - Vila Cloris, CEP: 31744-079",
+        "geo": [
+          -19.8222766,
+          -43.9516277
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Bauru",
+    "id": 31,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 9:00h"
+    ],
+    "phones": [
+      5514997915570 
+    ],
+    "addresses": [
+      {
+        "address": "Rua Ezequiel Ramos, 12-60 - Chácara das Flores, CEP: 17013-111",
+        "geo": [
+          -22.3188729,
+          -49.0669892
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Auriflama",
+    "id": 32,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 9:30h"
+    ],
+    "phones": [
+      5517991848902 
+    ],
+    "addresses": [
+      {
+        "address": "Rua José Brites de Figueiredo, 63-118 - Bairro São Bento, CEP: 15.350-000",
+        "geo": [
+          -20.6801432,
+          -50.5531535
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Nhandeara",
+    "id": 33,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 9:00h"
+    ],
+    "phones": [
+      5517991977550 
+    ],
+    "addresses": [
+      {
+        "address": "Rua Maria Teodoro da Silveira, 848 - Centro",
+        "geo": [
+          -20.6897026,
+          -50.042032
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PR",
+    "title": "Palotina",
+    "id": 34,
+    "schedules": [
+      "Variável"
+    ],
+    "phones": [
+      5544984029950 
+    ],
+    "addresses": [
+      {
+        "address": "Rua Verona, 1321 - Jardim Itália, CEP: 85950-000",
+        "geo": [
+          -24.2950708,
+          -53.8381832
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Nova Odessa",
+    "id": 35,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 9:30h"
+    ],
+    "phones": [
+      5519983805047,
+      5519992222835 
+    ],
+    "addresses": [
+      {
+        "address": "Rua 15 de Novembro, 380 - Centro, CEP 133801-001",
+        "geo": [
+          -22.7797122,
+          -47.2963156
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SC",
+    "title": "São José",
+    "id": 36,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 18:30h"
+    ],
+    "phones": [
+      5548988375054
+    ],
+    "addresses": [
+      {
+        "address": "Rua 13 de Junho, 996 - Flor de Napolis, CEP: 88106-470",
+        "geo": [
+          -27.6053539,
+          -48.6494767
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Santa Barbara D´Oeste",
+    "id": 37,
+    "schedules": [
+      "Terça-feira: 20:00h",
+      "Sabado: 18:30h",
+      "Domingo: 09:30h"
+    ],
+    "phones": [
+      5519992895556
+    ],
+    "addresses": [
+      {
+        "address": "Rua Antonio Luis Fornazin, 308 - Jd Dona Regina, CEP: 13455-745",
+        "geo": [
+          -22.7181246,
+          -47.3661135
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Campinas",
+    "id": 38,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo 09:00h"
+    ],
+    "phones": [
+      5519983823443
+    ],
+    "addresses": [
+      {
+        "address": "Rua Arnaldo Barreto, 1035 - São Bernardo, CEP: 13030-420",
+        "geo": [
+          -22.9278621,
+          -47.079767
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "São João da Boa Vista",
+    "id": 39,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo 09:00h"
+    ],
+    "phones": [
+      5519971505936
+    ],
+    "addresses": [
+      {
+        "address": "Av. Ana Lotufo Bruno, 98 - Jardim Cledirna, CEP: 13872-692",
+        "geo": [
+          -21.9803402,
+          -46.8126308
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PR",
+    "title": "Apucarana",
+    "id": 40,
+    "schedules": [
+      "Domingo: 16:00h"
+    ],
+    "phones": [
+      5543996976015
+    ],
+    "addresses": [
+      {
+        "address": "R. Prof. João Cândido Ferreira, 1872 - Centro, CEP: 86809-140",
+        "geo": [
+          -23.5655878,
+          -51.4576571
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Casa Branca",
+    "id": 41,
+    "schedules": [
+      "Sexta-feira: 16:00h"
+    ],
+    "phones": [
+      5519993535535
+    ],
+    "addresses": [
+      {
+        "address": "Rua Jose Geronimo de Vasconcelos, 11 - Centro",
+        "geo": [
+          -21.7727374,
+          -47.0924318
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "São José do Rio Preto",
+    "id": 42,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 09:30h"
+    ],
+    "phones": [
+      5517992231001
+    ],
+    "addresses": [
+      {
+        "address": "Rua João Mesquita, 2233 - Boa Vista, CEP: 15010-020",
+        "geo": [
+          -20.803118,
+          -49.3845213
+        ]
+      }
+    ]
+  },
+  {
+    "state": "ES",
+    "title": "Vilha Velha",
+    "id": 43,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 08:30h"
+    ],
+    "phones": [
+      5527992721871
+    ],
+    "addresses": [
+      {
+        "address": "Rua Araribóia, 925 - Centro, CEP: 29108-046",
+        "geo": [
+          -20.3403748,
+          -40.2989366
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SC",
+    "title": "Blumenau",
+    "id": 44,
+    "schedules": [
+      "Terça-feira: 19:30h",
+      "Domingo: 17:00h"
+    ],
+    "phones": [
+      5547996705909
+    ],
+    "addresses": [
+      {
+        "address": "Rua dos Caçadores, 499, Sala 302 - Velha Central, CEP: 89040-233",
+        "geo": [
+          -26.9153471,
+          -49.1156307
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Analândia",
+    "id": 45,
+    "schedules": [
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5519997280616
+    ],
+    "addresses": [
+      {
+        "address": "Av. Um, 752 - Centro, CEP: 13550-000",
+        "geo": [
+          -22.1271834,
+          -47.6637452
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Presidente Prudente",
+    "id": 46,
+    "schedules": [
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5518981601562,
+      5519983932293
+    ],
+    "addresses": [
+      {
+        "address": "Rua Bahia, 435 - Vila Marcondes, CEP: 19030-030",
+        "geo": [
+          -22.1257679,
+          -51.382494
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Descalvado",
+    "id": 47,
+    "schedules": [
+      "Terça-feira: 20:00h",
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5519999466009
+    ],
+    "addresses": [
+      {
+        "address": "Rua Paula de Carvalho, 630, Centro, CEP: 13690-000",
+        "geo": [
+          -21.9070038,
+          -47.6204349
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Batatais",
+    "id": 48,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 08:30h"
+    ],
+    "phones": [
+      5516981532007
+    ],
+    "addresses": [
+      {
+        "address": "Rua Pedro Baldochi, 97 - Jardim Virgínia, CEP: 14305-156",
+        "geo": [
+          -20.887038,
+          -47.5807929
+        ]
+      }
+    ]
+  },
+  {
+    "state": "AL",
+    "title": "Arapiraca",
+    "id": 49,
+    "schedules": [
+      "Quarta: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 18:30h"
+    ],
+    "phones": [
+      558299960663 
+    ],
+    "addresses": [
+      {
+        "address": "Rua Presidente Dutra, 120 - Alto do Cruzeiro, CEP: 57312-266",
+        "geo": [
+          -9.7459079,
+          -36.658412
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Pirassununga",
+    "id": 50,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 09:30h"
+    ],
+    "phones": [
+      5519998108204,
+      5519971701893 
+    ],
+    "addresses": [
+      {
+        "address": "Rua 15 de novembro, 995 - Centro, CEP: 13630-140",
+        "geo": [
+          -23.4239394,
+          -51.9441007
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RS",
+    "title": "Santana do Livramento",
+    "id": 51,
+    "schedules": [
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5555984111108
+    ],
+    "addresses": [
+      {
+        "address": "Av. Hector Acosta, 782 - Centro, CEP: 97573-150",
+        "geo": [
+          -30.8794414,
+          -55.5442827
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Santa Fé Do Sul",
+    "id": 52,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 09:30h"
+    ],
+    "phones": [
+      5517981599801
+    ],
+    "addresses": [
+      {
+        "address": "Rua 29, 622, CEP: 15775-000",
+        "geo": [
+          -20.1999924,
+          -50.9282445
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PR",
+    "title": "Curitiba",
+    "id": 53,
+    "schedules": [
+      "Terça-Feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo 09:30h"
+    ],
+    "phones": [
+      5541999751417
+    ],
+    "addresses": [
+      {
+        "address": "Rua José Dorigo, 115 - Capão Raso, CEP 81110-140",
+        "geo": [
+          -25.4958208,
+          -49.2908056
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Americana",
+    "id": 54,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 9:00h",
+      "Quarta: 19:30h"
+    ],
+    "phones": [
+      5519992742058
+    ],
+    "addresses": [
+      {
+        "address": "Rua Antonio Nunes, 255 - Jardim Campo Limpo, CEP: 13477-090",
+        "geo": [
+          -22.7345208,
+          -47.3094349
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Hortolândia",
+    "id": 55,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 9:00h"
+    ],
+    "phones": [
+      5519983418897
+    ],
+    "addresses": [
+      {
+        "address": "R. Osvaldo Cruz, 85 - Jardim Santo André, CEP: 13186-006",
+        "geo": [
+          -22.8777569,
+          -47.2707253
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "São José do Rio Pardo",
+    "id": 56,
+    "schedules": [
+      "Sábado 19:30h",
+      "Domingo: 9:00h",
+      "Quarta-feira: 19:30h"
+    ],
+    "phones": [
+      5519986041457
+    ],
+    "addresses": [
+      {
+        "address": "R. Dr. João Gabriel Ribeiro, 123 - Centro, CEP: 13720-000",
+        "geo": [
+          -21.59531,
+          -46.8930804
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Cravinhos",
+    "id": 57,
+    "schedules": [
+      "Quarta-feira: 20:30h",
+      "Domingo: 9:30h"
+    ],
+    "phones": [
+      5516996210008,
+      5516981848804
+    ],
+    "addresses": [
+      {
+        "address": "Rua Salvador Minardi, 486, CEP: 14140-000",
+        "geo": [
+          -21.3303434,
+          -47.7378988
+        ]
+      },
+      {
+        "address": "Rua Bartolomeu Arjonas, 46, CEP: 14140-000",
+        "geo": [
+          -21.3256795,
+          -47.7385584
+        ]
+      }
+    ]
+  },
+  {
+    "state": "SP",
+    "title": "Rio Pardo",
+    "id": 58,
+    "schedules": [
+      "Quarta-feira: 19:30h",
+      "Sábado: 19:30h",
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5519993730435
+    ],
+    "addresses": [
+      {
+        "address": "Rua Dr. João Gabriel Ribeiro, 123 - Centro, CEP: 13720-000",
+        "geo": [
+          -21.59531,
+          -46.8930804
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Pedro Velho",
+    "id": 59,
+    "schedules": [
+      "Sábado: 19:30h"
+    ],
+    "phones": [
+      5584981014892
+    ],
+    "addresses": [
+      {
+        "address": "R. 31 de Março, 158, CEP: 59196-000",
+        "geo": [
+          -6.4362448,
+          -35.2189896
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Assu",
+    "id": 60,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      584996989885
+    ],
+    "addresses": [
+      {
+        "address": "Rua Monsenhor Júlio Alves Bezerra, 1130 - Centro, CEP: 59650-000",
+        "geo": [
+          -5.5760786,
+          -36.9113782
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RN",
+    "title": "Carnaubais",
+    "id": 61,
+    "schedules": [
+      "Sábado: 19:30h",
+      "Domingo: 08:00h"
+    ],
+    "phones": [
+      5584999729664
+    ],
+    "addresses": [
+      {
+        "address": "Rua Luiza Cavalcante de Oliveira, 114 - Centro, CEP: 59665-000",
+        "geo": [
+          -5.3391838,
+          -36.8358486
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PE",
+    "title": "Camaragibe",
+    "id": 62,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 19:00h"
+    ],
+    "phones": [
+      5581987124560
+    ],
+    "addresses": [
+      {
+        "address": "R. José Izídio da Silva, 13 - Timbi, CEP: 54762-750",
+        "geo": [
+          -8.0228688,
+          -34.9899864
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "Mamanguape",
+    "id": 63,
+    "schedules": [
+      "Quarta-feira: 19:00h",
+      "Sábado: 19:00h",
+      "Domingo: 17:30h"
+    ],
+    "phones": [
+      5583991300552
+    ],
+    "addresses": [
+      {
+        "address": "Rua Francisco Bartolomeu de Souza, 016 - Centro, CEP: 58280-000",
+        "geo": [
+          -6.8373709,
+          -35.1394552
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "Santa Luzia",
+    "id": 64,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5583996208415
+    ],
+    "addresses": [
+      {
+        "address": "Rua Zezé Medeiros,  255 - São José, CEP: 586000-000",
+        "geo": [
+          -6.8750877,
+          -36.9203369
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "title": "Santa Luzia",
+    "id": 64,
+    "schedules": [
+      "Sábado: 19:00h",
+      "Domingo: 09:00h"
+    ],
+    "phones": [
+      5583996208415
+    ],
+    "addresses": [
+      {
+        "address": "Rua Zezé Medeiros,  255 - São José, CEP: 586000-000",
+        "geo": [
+          -6.8750877,
+          -36.9203369
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EPT",
+    "title": "Lisboa",
+    "id": "lisboa",
+    "schedules": [
+      "Domingo: 10:00"
+    ],
+    "phones": [
+      351937424949
+    ],
+    "addresses": [
+      {
+        "address": "Rua Cruz da Carreira 4b",
+        "geo": [
+          38.7244004,
+          -9.1427688
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EPT",
+    "title": "Porto",
+    "id": "porto",
+    "schedules": [
+      "Domingo: 10:00"
+    ],
+    "phones": [
+      351916945048
+    ],
+    "addresses": [
+      {
+        "address": "Rua de Antero de Quental, 1046",
+        "geo": [
+          41.1674383,
+          -8.6107885
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EES",
+    "title": "Barcelona",
+    "id": "barcelona",
+    "schedules": [
+      "Domingo: 11:30"
+    ],
+    "phones": [
+      34664826595
+    ],
+    "addresses": [
+      {
+        "address": "Plaça Blocs Florida, 15, 2 con 6, 08905 - L'Hospitalet de Llobregat",
+        "geo": [
+          41.3676245,
+          2.110221
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EES",
+    "title": "Madrid",
+    "id": "madrid",
+    "schedules": [
+      "Domingo: 11:00"
+    ],
+    "phones": [
+      34621384673
+    ],
+    "addresses": [
+      {
+        "address": "Calle Francisco del Pino 14",
+        "geo": [
+          40.3497246,
+          -3.6929007
+        ]
+      },
+      {
+        "address": "Calle Muller 1, 1D, 28039",
+        "geo": [
+          40.4630862,
+          -3.7021241
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EES",
+    "title": "Castro Urdiales",
+    "id": "castro-urdiales",
+    "schedules": [
+      "Domingo: 11:00"
+    ],
+    "phones": [
+      34641490824
+    ],
+    "addresses": [
+      {
+        "address": "Calle de los Caseiros 8, Portal 9, piso 5B, 39700",
+        "geo": [
+          43.3743366,
+          -3.2339654
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EES",
+    "title": "Valencia",
+    "id": "valencia",
+    "schedules": [
+      "Domingo: 11:00"
+    ],
+    "phones": [
+      34631118130
+    ],
+    "addresses": [
+      {
+        "address": "Calle Luz Casanova 19. Piso 5, puerta 19, 46009",
+        "geo": [
+          39.4891914,
+          -0.3754096
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EES",
+    "title": "Pamplona",
+    "id": "pamplona",
+    "schedules": [
+      "Domingo: 11:00"
+    ],
+    "phones": [
+      34638327306
+    ],
+    "addresses": [
+      {
+        "address": "Calle Carmen Baroja Nessi 33 (Bajo), 31014",
+        "geo": [
+          42.8241041,
+          -1.6503612
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EES",
+    "title": "Solares",
+    "id": "solares",
+    "schedules": [
+      "Domingo: 11:00"
+    ],
+    "phones": [
+      34677312487
+    ],
+    "addresses": [
+      {
+        "address": "Av Oviedo 20H 4A - 39710",
+        "geo": [
+          43.3819536,
+          -3.743169
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EDE",
+    "title": "Vaihingen",
+    "id": "vaihingen",
+    "schedules": [
+      "Domingo: 10:00"
+    ],
+    "phones": [
+      491736281243
+    ],
+    "addresses": [
+      {
+        "address": "Adenauerstraße 16, 71665",
+        "geo": [
+          48.9534752,
+          8.9835033
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EPT",
+    "title": "Portimão",
+    "id": "portimao",
+    "schedules": [
+      "Terça-feira: 19:00",
+      "Domingo: 10:00"
+    ],
+    "phones": [
+      351914065716
+    ],
+    "addresses": [
+      {
+        "address": "Rua José Pereira Sampaio Bruno 8A",
+        "geo": [
+          37.1288944,
+          -8.5800878
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EIT",
+    "title": "Roma",
+    "id": "roma",
+    "schedules": [
+      "Domingo: 10:30"
+    ],
+    "phones": [
+      3349304450
+    ],
+    "addresses": [
+      {
+        "address": "Via Milazzo 23-B",
+        "geo": [
+          41.902509,
+          12.5030784
+        ]
+      }
+    ]
+  },
+  {
+    "state": "EPT",
+    "title": "Coimbra",
+    "id": "coimbra",
+    "schedules": [
+      "Domingo: 10:00"
+    ],
+    "phones": [
+      51933657408
+    ],
+    "addresses": [
+      {
+        "address": "Praça da república, Galeria Avenida 4.ª andar sala 421",
+        "geo": [
+          40.2286755,
+          -8.5563584
+        ]
+      }
+    ]
+  }
+]
