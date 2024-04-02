@@ -1,0 +1,2678 @@
+[
+    {
+        "title": "A Ceia do Senhor",
+        "type": "canticle",
+        "number": "1",
+        "ref": [
+            "a-ceia-do-senhor",
+            "C-1"
+        ],
+        "lyrics": [
+            {
+                "content": "Porque eu recebi do Senhor o que também\nVos entreguei:  que o Senhor Jesus,\nNa noite em que foi traído, tomou opão;\nE, tendo dado graças, o partiu e disse: ",
+                "chorus": false
+            },
+            {
+                "content": "Isto é o Meu corpo, que é dado por vós;\nFazei isto em memória de Mim.\nIsto é o Meu corpo, que é dado por vós;\nFazei isto em memória de Mim.",
+                "chorus": true
+            },
+            {
+                "content": "Por semelhante modo, depois de haver ceado,\nTomou também o cálice, dizendo: \nEste cálice é a nova aliança no Meu sangue;\nFazei isto toda vez que o beberdes,\nEm memória de Mim.",
+                "chorus": false
+            },
+            {
+                "content": "Porque todas as vezes que comerdes este pão\nE beberdes o cálice,\nAnunciais a morte do Senhor, até que Ele venha,\nAté que Ele venha.",
+                "chorus": false
+            },
+            {
+                "content": "Isto é o Meu corpo, que é dado por vós;\nFazei isto em memória de Mim.\nIsto é o Meu corpo, que é dado por vós;\nFazei isto em memória de Mim.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Dá-me a Conhecer",
+        "type": "canticle",
+        "number": "2",
+        "ref": [
+            "dá-me-a-conhecer",
+            "C-2"
+        ],
+        "lyrics": [
+            {
+                "content": "Dá-me a conhecer, Senhor, meu fim,\nqual a soma dos meus dias,\npra minha fragilidade eu reconhecer,\neu reconhecer.",
+                "chorus": false
+            },
+            {
+                "content": "Aos meus dias deste, ó Senhor,\no comprimento de alguns palmos;\nà Tua presença o prazo da mi'a vida é nada.",
+                "chorus": false
+            },
+            {
+                "content": "Na verdade, todo homem,\npor mais firme que esteja,\nAinda é pura vaidade,\npura vaidade.",
+                "chorus": false
+            },
+            {
+                "content": "Passa o homem como a sombra;\nem vão se inquieta: \namontoa tesouros e não sabe\nquem os levará.",
+                "chorus": true
+            },
+            {
+                "content": "E eu, ó Senhor, que espero?\nÉs a minha esperança.\nE eu, ó Senhor, que espero?\nÉs a minha esperança.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Resgatados",
+        "type": "canticle",
+        "number": "3",
+        "ref": [
+            "resgatados",
+            "C-3"
+        ],
+        "lyrics": [
+            {
+                "content": "Assim voltarão os resgatados do Senhor,\nA Sião virão cantando -\nPerpétua alegria a todos coroará.\nAssim voltarão os resgatados do Senhor,\nA Sião virão cantando -\nPerpétua alegria a todos coroará.",
+                "chorus": false
+            },
+            {
+                "content": "Sim, regozijo e alegria terão,\nTristezas, gemidos fugirão.",
+                "chorus": false
+            },
+            {
+                "content": "Assim voltarão os resgatados do Senhor,\nA Sião virão cantando -\nPerpétua alegria a todos coroará.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Tu orarás naquele dia",
+        "type": "canticle",
+        "number": "4",
+        "ref": [
+            "tu-orarás-naquele-dia",
+            "C-4"
+        ],
+        "lyrics": [
+            {
+                "content": "Tu orarás naquele dia: \nA Ti dou graças, ó meu Senhor,\nFoi-se a ira e consolo me dás. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Eis que Deus é, sim, Ele é minha salvação;\nConfiarei e não temerei,\nPorque o Senhor é minha força e meu canto,\nE Ele tornou-se, pois, a minha salvação.",
+                "chorus": true
+            },
+            {
+                "content": "Vós tirareis com alegria\nÁguas das fontes da salvação,\nE direis:  graças dai ao Senhor. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Invocai Seu nome,\nE entre os povos mostrai Seus feitos,\nRelembrai que é excelso o Seu nome.\nÓ habitante de Sião, exulta e clama,\nPois grande é o Santo de Israel em meio a ti.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Liberar, liberar",
+        "type": "canticle",
+        "number": "5",
+        "ref": [
+            "liberar,-liberar",
+            "C-5"
+        ],
+        "lyrics": [
+            {
+                "content": "Oh! que alegria, quão rico Cristo é!\nDentro em mim agora Ele está;\nRios d'água viva irão fluir de mim,\nQuando meu espír'to liberar.\nLiberar! Liberar!\nQuero meu espír'to liberar.\nRios d'água viva irão fluir de mim,\nQuando meu espír'to liberar.",
+                "chorus": false
+            },
+            {
+                "content": "Com meu corpo toco as coisas materiais,\nMinha mente uso pra pensar,\nMas só vou a vida de Cristo desfrutar,\nSe o meu espír'to liberar.\nLiberar! Liberar!\nQuero meu espír'to liberar,\nPois só vou a vida de Cristo desfrutar,\nSe o meu espír'to liberar.",
+                "chorus": false
+            },
+            {
+                "content": "Deixo o formalismo e velhas tradições,\nNo frescor da vida quero estar;\nInvocando agora:  \"Ó Senhor Jesus!\",\nMeu espír'to assim vou liberar!\nLiberar! Liberar!\nQuero meu espír'to liberar!\nInvocando agora:  \"Ó Senhor Jesus!\",\nMeu espír'to assim vou liberar!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Uma fonte almejava",
+        "type": "canticle",
+        "number": "6",
+        "ref": [
+            "uma-fonte-almejava",
+            "C-6"
+        ],
+        "lyrics": [
+            {
+                "content": "Uma fonte almejava\nPara a sede satisfazer;\nAo beber das muitas fontes,\nNada pôde me preencher.\nMas um dia encontrei\nQuem pôde me saciar,\nE uma fonte em mim tornou-se,\nSempre a jorrar.\nDele bebo!\nÉ Jesus a minha vida,\nPlenamente me saciou;\nÉ Ele minha vida,\nSatisfeito hoje estou.",
+                "chorus": false
+            },
+            {
+                "content": "Ao provar tal rica fonte,\nQuis com outros O adorar;\nCristo, em visão, mostrou-me\nQue a igreja é tal lugar.\nÀ igreja me levou,\nNão vou mais procurar,\nPois encontrei tal gozo eterno -\nEste é o meu lugar.\nAleluia!\nMeu viver é a igreja,\nPlenamente me saciou;\nVivendo na igreja,\nSatisfeito hoje estou.",
+                "chorus": false
+            },
+            {
+                "content": "Tu, que tanto te empenhas,\nVale a pena assim buscar?\nBasta abrir teu ser a Ele,\nClama a Cristo, Ele entrará.\nSe invocares:  ó Senhor!,\nEnfim O acharás;\nCom Ele unido em Sua vida,\nNovo então serás.\nQue me dizes?\nÉ Jesus a tua vida\nQue desfrute pleno traz?\nÉ Ele tua vida?\nSatisfeito hoje estás?",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Senhor, eu amo a Ti",
+        "type": "canticle",
+        "number": "7",
+        "ref": [
+            "senhor,-eu-amo-a-ti",
+            "C-7"
+        ],
+        "lyrics": [
+            {
+                "content": "Senhor, eu amo a Ti,\nE não há ninguém como Tu;\nEm todo o universo,\noutro além de Ti não tenho eu;\nJesus, amo a Ti!",
+                "chorus": false
+            },
+            {
+                "content": "Que prova mais terei\nDo Teu amor sem fim,\nSe Tua vida aqui\nEntregaste Tu por mim?",
+                "chorus": false
+            },
+            {
+                "content": "Quão forte é Teu amor,\nNão posso resistir -\nO mundo vou deixar\nPara sempre Te seguir.",
+                "chorus": false
+            },
+            {
+                "content": "Por Teu amor que jorra\nQual viva fonte em mim: \nSenhor, eu amo a Ti,\nOh! como amo a Ti!",
+                "chorus": false
+            },
+            {
+                "content": "Senhor, eu amo a Ti,\nE não há ninguém como Tu;\nEm todo o universo,\noutro além de Ti não tenho eu;\nJesus, amo a Ti!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Que salvação!",
+        "type": "canticle",
+        "number": "8",
+        "ref": [
+            "que-salvação!",
+            "C-8"
+        ],
+        "lyrics": [
+            {
+                "content": "Que alegria! Deus em Cristo me salvou!\nMudou-me a sorte: \nLivrou-me da morte\nE Sua vida me dispensou;\nFui predestinado,\nEleito e chamado,\nCom o Seu Filho herdeiro sou.",
+                "chorus": false
+            },
+            {
+                "content": "Eis que Deus é minha salvação,\nO meu canto e vigor!\nTirarei com alegria\nÁguas vivas todo dia,\nInvocando-Te, Senhor!",
+                "chorus": true
+            },
+            {
+                "content": "Que segurança! O Senhor me resgatou!\nCordeiro amado,\nPor mim imolado,\nCom o Seu sangue já me comprou;\nTirou meus pecados -\nNão mais condenado,\nEm Suas mãos bem seguro estou.",
+                "chorus": false
+            },
+            {
+                "content": "Que salvação, pois, concedeu-me o Senhor!\nJamais vou perdê-la,\nMas desenvolvê-la\nEm santidade e em temor;\nE Cristo, em vitória,\nConduz-me à glória,\nCom os cativos do Seu amor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Nada é mais precioso",
+        "type": "canticle",
+        "number": "9",
+        "ref": [
+            "nada-é-mais-precioso",
+            "C-9"
+        ],
+        "lyrics": [
+            {
+                "content": "Nada é mais precioso que Cristo em meu espírito!\nPode tudo acabar, aqui Ele estará.\nE qual semente plantado foi em mim,\nÉ só O invocar, e disponível Ele está.",
+                "chorus": false
+            },
+            {
+                "content": "Senhor Jesus!\nVem socorrer-me nas fraquezas\nCom Tua vida que tem provado cada dia\nSer suficiente.",
+                "chorus": true
+            },
+            {
+                "content": "Nada é mais precioso que Cristo em meu espírito!\nSei onde O achar, e ouvir a Sua voz.\nPosso segui-Lo, fiel sendo à unção,\nQue tudo me ensina e é permanente e real.",
+                "chorus": false
+            },
+            {
+                "content": "Senhor Jesus!\nVem socorrer-me nas fraquezas\nCom Tua vida que tem provado cada dia\nSer suficiente.",
+                "chorus": true
+            },
+            {
+                "content": "Nada é mais precioso que Cristo em meu espírito!\nÉ esta a chave do Teu plano eternal,\nPois meu espír'to é o ponto de partida\nPra Te expandir em mim e todo o meu ser saturar.",
+                "chorus": false
+            },
+            {
+                "content": "Senhor Jesus!\nTuas riquezas quero desfrutar,\nEm Tua vida que tem provado cada dia\nSer suficiente.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Amo a Cristo e nada mais",
+        "type": "canticle",
+        "number": "10",
+        "ref": [
+            "amo-a-cristo-e-nada-mais",
+            "C-10"
+        ],
+        "lyrics": [
+            {
+                "content": "Simplesmente pela fé,\nCada dia que vier,\nEm tormenta ou em paz,\nAmo a Cristo e nada mais.",
+                "chorus": false
+            },
+            {
+                "content": "Seu Espírito me encheu,\nEm meu ser resplandeceu,\nMe Conduz e firme faz;\nAmo a Cristo e nada mais.",
+                "chorus": false
+            },
+            {
+                "content": "Sim, de todo o coração,\nMente, vontade e emoção,\nAmo quem me amou demais -\nAmo a Cristo e nada mais.",
+                "chorus": true
+            },
+            {
+                "content": "Canto e louvo o Senhor,\nPois em riso ou em dor\nInvocá-Lo dá-me paz;\nAmo a Cristo e nada mais.",
+                "chorus": false
+            },
+            {
+                "content": "Té o Noivo retornar,\nTé a terra enfim passar,\nNesta vida tão fugaz,\nAmo a Cristo e nada mais.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Jesus, meu primeiro amor",
+        "type": "canticle",
+        "number": "11",
+        "ref": [
+            "jesus,-meu-primeiro-amor",
+            "C-11"
+        ],
+        "lyrics": [
+            {
+                "content": "És meu amor, meu primeiro amor, Jesus,\nO Teu valor, em palavras, quem traduz?\nTesouro meu, precioso, singular,\nNa terra e céu, outro além de Ti não há.",
+                "chorus": false
+            },
+            {
+                "content": "Amado meu, a quem Te compararei?\nSó Tu és Deus, com que Te confrontarei?\nO mesmo és, me conduzes junto a Ti,\nE me atrais muito mais que o mundo aqui.",
+                "chorus": false
+            },
+            {
+                "content": "Amo a Ti, Jesus,\nTeu valor ninguém supera!\nQuem mais tenho eu no céu?\nNão há quem me compraz na terra.",
+                "chorus": true
+            },
+            {
+                "content": "Teu meigo olhar ilumina a escuridão,\nE Teu falar é mui doce ao coração;\nSó Teu amor me constrange a viver\nPor Ti Senhor, que ganhaste o meu ser.",
+                "chorus": false
+            },
+            {
+                "content": "Só Tu, Senhor, és o meu real prazer,\nConsolador, plena graça em meu sofrer;\nSatisfação e alegria que é sem fim,\nMananciais d'águas vivas dentro em mim.",
+                "chorus": false
+            },
+            {
+                "content": "Vem, ó Amado meu,\nFace a face anelo ver-Te;\nNão tardes, vem logo aos Teus\nE nos desposa eternamente.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "O meu amado",
+        "type": "canticle",
+        "number": "12",
+        "ref": [
+            "o-meu-amado",
+            "C-12"
+        ],
+        "lyrics": [
+            {
+                "content": "O meu Amado\nVem galgando sobre os montes,\nVem pulando os outeiros,\nSua voz eu ouço a me chamar\nPra Dele desfrutar,\nNa vida de ressurreição.",
+                "chorus": false
+            },
+            {
+                "content": "Ao ouvir o Seu chamado,\nComo não me levantar?\nE qual lírio para Ele,\nAbro a boca a cantar\ne louvar meu Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Oh! Aleluia!\nComo Teu amor anelo!\nVem depressa, Te espero,\nAmado meu, Jesus.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "A Cidade de Deus",
+        "type": "canticle",
+        "number": "13",
+        "ref": [
+            "a-cidade-de-deus",
+            "C-13"
+        ],
+        "lyrics": [
+            {
+                "content": "Grande é o Senhor\nE mui digno de ser louvado,\nNa cidade do nosso Deus.\nSeu santo monte,\nBelo e sobranceiro,\nÉ a alegria de toda a terra;\nO monte de Sião, para os lados do norte,\nA cidade do grande Rei.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "A Lei do Senhor é Perfeita",
+        "type": "canticle",
+        "number": "14",
+        "ref": [
+            "a-lei-do-senhor-é-perfeita",
+            "C-14"
+        ],
+        "lyrics": [
+            {
+                "content": "A lei do Senhor é perfeita\nE restaura a alma;\nO testemunho do Senhor é fiel\nE dá sabedoria aos símplices.",
+                "chorus": false
+            },
+            {
+                "content": "São mais desejáveis do que o ouro depurado;\nSão mais doces do que o mel\nE o destilar dos favos.",
+                "chorus": true
+            },
+            {
+                "content": "Os preceitos do Senhor são retos\nE alegram o coração;\nO mandamento do Senhor é puro,\nE ilumina os olhos.",
+                "chorus": false
+            },
+            {
+                "content": "O temor do Senhor é límpido\nE permanece para sempre;\nOs juízos do Senhor são verdadeiros\nE todos igualmente justos.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "A Oração de Ana",
+        "type": "canticle",
+        "number": "15",
+        "ref": [
+            "a-oração-de-ana",
+            "C-15"
+        ],
+        "lyrics": [
+            {
+                "content": "O meu coração se regozija no Senhor,\nA minha força está exaltada no Senhor;\nA minha boca se ri dos meus inimigos,\nPorquanto me alegro em Tua salvação.",
+                "chorus": false
+            },
+            {
+                "content": "Não há santo qual o Senhor;\nPorque não há outro além de Ti;\nNão há rocha como o nosso Deus.\nNão há rocha como o nosso Deus.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Alegrei-me quando me disseram",
+        "type": "canticle",
+        "number": "16",
+        "ref": [
+            "alegrei-me-quando-me-disseram",
+            "C-16"
+        ],
+        "lyrics": [
+            {
+                "content": "Alegrei-me quando me disseram: \nVamos à casa do Senhor. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Nossos pés pararam junto às portas,\nJunto às tuas portas, ó Jerusalém. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Jerusalém, que estás bem construída,\nComo cidade bem unida. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Onde sobem as tribos do Senhor\nComo convém a Israel,\nPara renderem muitas graças\nAo grande nome do Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Lá estão os tronos de justiça,\nOs tronos da casa de Davi. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Orai pela paz de Jerusalém!\nProsperem todos os que te amam. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Reine paz dentro em teus muros,\nProsperidade em teus palácios. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Por amor dos meus irmãos e amigos,\nEu peço:  Haja paz em ti. [(bis)]",
+                "chorus": false
+            },
+            {
+                "content": "Por amor da casa do Senhor,\nEu buscarei teu bem. [(bis)]",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Aleluia! Quero expressar cantando",
+        "type": "canticle",
+        "number": "17",
+        "ref": [
+            "aleluia!-quero-expressar-cantando",
+            "C-17"
+        ],
+        "lyrics": [
+            {
+                "content": "Aleluia! Quero expressar cantando,\nAleluia! Quero expressar gritando,\nAleluia! Não posso viver sem Deus,\nSem Deus.",
+                "chorus": false
+            },
+            {
+                "content": "Nesta nova criação eu vivo,\nDesta nova salvação eu bebo,\nAgora sem condenação estou\nEm Deus, em Deus.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Ao cheiro das Águas",
+        "type": "canticle",
+        "number": "18",
+        "ref": [
+            "ao-cheiro-das-águas",
+            "C-18"
+        ],
+        "lyrics": [
+            {
+                "content": "Porque há esperança para a árvore,\nPois mesmo cortada ainda se renovará,\nE não cessarão os seus rebentos.\nSe envelhecer na terra a sua raiz,\nE no chão morrer o seu tronco,\nAo cheiro das águas, ao cheiro das águas brotará\nE dará ramos como a planta nova,\nAo cheiro das águas!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Atado à Vide",
+        "type": "canticle",
+        "number": "19",
+        "ref": [
+            "atado-à-vide",
+            "C-19"
+        ],
+        "lyrics": [
+            {
+                "content": "Atado à Vide estou,\nQuão doce o fruto seu: \nÉ Cristo o meu gozo e prazer.\nMi'as vestes já lavou,\nJustificou-me Deus -\nDa Vide só resta comer.",
+                "chorus": false
+            },
+            {
+                "content": "Tolice é fugir,\nDa Vide me afastar,\nSe longe provo só o que é vão;\nMas se desfruto aqui,\nMeus olhos vão brilhar\nE brancos meus dentes serão.",
+                "chorus": false
+            },
+            {
+                "content": "Oh! que descanso sem igual!\nSó desse fruto vou comer!\nSer restringido assim\nÉ benção para mim -\nNa Vide permanecer.",
+                "chorus": true
+            },
+            {
+                "content": "Senhor, a Vide és!\nSe permaneço em Ti,\nEm Ti irei crescer mais e mais.\nÀs bodas do meu Rei,\nProssigo eu aqui\nBordando as vestes nupciais.",
+                "chorus": false
+            },
+            {
+                "content": "E no Milênio, então,\nOs inimigos Teus\nSerão, pois, reduzidos a pó.\nCom cetro e bastão,\nNa terra e nos céus,\nEm paz reinarás, Siló.",
+                "chorus": false
+            },
+            {
+                "content": "Até voltares, ó Senhor,\nSó desse fruto vou comer!\nSer restringido assim\nÉ bênção para mim -\nNa Vide permanecer!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Até que venha Siló",
+        "type": "canticle",
+        "number": "20",
+        "ref": [
+            "até-que-venha-siló",
+            "C-20"
+        ],
+        "lyrics": [
+            {
+                "content": "Senhor Jesus, eis que virás dos céus,\nSubjugarás os inimigos Teus;\nTeu reino, então, se manifestará -\nTu és Leão da tribo de Judá.",
+                "chorus": false
+            },
+            {
+                "content": "Em Tua mão o cetro sempre tens\nCom Teu bastão firmado entre os pés;\nA Ti, Siló, nações se renderão: \nSublime paz,\nPor fim, trarás;\nE alegria todos, pois, terão.",
+                "chorus": true
+            },
+            {
+                "content": "Contigo reis é nosso anelo ser,\nMas vemos que nos falta em Ti crescer;\nPorém, Senhor, uma esperança há: \nA Tua vida irá nos transformar -",
+                "chorus": false
+            },
+            {
+                "content": "Vida imortal, que a morte já tragou,\nCelestial, do alto nos gerou,\nE com poder triunfante a nos suprir,\nTransformação\nEm nós, então,\nExibirás, em glória, no porvir.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Batei palmas",
+        "type": "canticle",
+        "number": "21",
+        "ref": [
+            "batei-palmas",
+            "C-21"
+        ],
+        "lyrics": [
+            {
+                "content": "Batei palmas, todos os povos;\nCelebrai a Deus com vozes de júbilo,\nBatei palmas, todos os povos;\nCelebrai a Deus com vozes de júbilo.\nPois o Senhor Altíssimo é tremendo,\nEle é o grande Rei de toda a terra.\nDeus é o Rei de toda a terra,\nSalmodiai com harmonioso cântico.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Bem cedo acordar",
+        "type": "canticle",
+        "number": "22",
+        "ref": [
+            "bem-cedo-acordar",
+            "C-22"
+        ],
+        "lyrics": [
+            {
+                "content": "Bem cedo acordai, do Senhor comei,\nTodos vêm a vida da igreja ter.\nNa oração todos vêm com \"amém\" liberar\nNa presença do Senhor.\nAleluia, co'o Senhor! Aleluia, co'o Senhor!\nNo lugar que for, louvai,\nNa igreja vivei.",
+                "chorus": false
+            },
+            {
+                "content": "Não importa se novo ou velho é\nTodos vêm de Cristo testificar,\nPois, no Corpo de Cristo, suprindo em amor,\nMembros, juntas somos nós.\nAleluia, membro sou! Aleluia, junta sou!\nExercendo a função,\nNa igreja vivei.",
+                "chorus": false
+            },
+            {
+                "content": "Cristo me pertence e também é teu.\nTodos vêm de Cristo compartilhar,\nNa reunião ou no lar, é uma bênção gozar\nAlegria sem igual.\nAleluia, que prazer! Aleluia, que prazer!\nDo Seu rico Corpo eu\nPosso participar.",
+                "chorus": false
+            },
+            {
+                "content": "Todos invocando:  Senhor Jesus!\nEntão vamos juntos Cristo exibir: \nLouvo eu, cantas tu, todos dizem:  Amém!\nOh! que bom é reunir!\nAleluia, oh! que bom! Aleluia, oh! que bom!\nAbundante e rico é\nNa igreja viver.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Bendito o homem",
+        "type": "canticle",
+        "number": "23",
+        "ref": [
+            "bendito-o-homem",
+            "C-23"
+        ],
+        "lyrics": [
+            {
+                "content": "Bendito o homem que confia no Senhor,\nE cuja esperança é o Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Bendito o homem que confia no Senhor,\nE cuja esperança é o Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Porque ele é como árvore plantada junto às águas,\nQue estende as raízes para o ribeiro\nE não receia quando vem o calor,\nMas sua folha fica verde; e no ano de sequidão\nNão se perturba nem deixa de dar o seu fruto.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Bom é render graças ao Senhor",
+        "type": "canticle",
+        "number": "24",
+        "ref": [
+            "bom-é-render-graças-ao-senhor",
+            "C-24"
+        ],
+        "lyrics": [
+            {
+                "content": "Bom é render\nGraças ao Senhor\nE cantar louvores ao Teu nome,\nAo Teu nome, Altíssimo.",
+                "chorus": false
+            },
+            {
+                "content": "Anunciar de manhã\nA Tua misericórdia,\nE durante a noite\nA Tua fidelidade, Altíssimo.",
+                "chorus": false
+            },
+            {
+                "content": "Com instrumentos de cordas,\nE com saltério e a harpa,\nBom é render graças ao Senhor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Buscai as coisas lá do alto",
+        "type": "canticle",
+        "number": "25",
+        "ref": [
+            "buscai-as-coisas-lá-do-alto",
+            "C-25"
+        ],
+        "lyrics": [
+            {
+                "content": "Buscai as coisas lá do alto,\nOnde Cristo vive, assentado à direita de Deus.\nPensai nas coisas lá do alto,\nNão nas que são aqui da terra;\nPorque morrestes, e a vossa vida\nEstá oculta juntamente com Cristo em Deus.",
+                "chorus": false
+            },
+            {
+                "content": "Quando Cristo, que é nossa vida,\nSe manifestar, oh! aleluia!\nEntão vós também sereis manifestados\nCom Ele, em glória, oh! aleluia!\nCom Ele, em glória, oh! aleluia!\nAleluia! Aleluia! Aleluia!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Cada dia mais",
+        "type": "canticle",
+        "number": "26",
+        "ref": [
+            "cada-dia-mais",
+            "C-26"
+        ],
+        "lyrics": [
+            {
+                "content": "Eu Te amo cada dia mais,\nHoje mesmo eu Te amo mais;\nNão consigo mais viver sem Ti,\nEu de fato nunca consegui.",
+                "chorus": false
+            },
+            {
+                "content": "Quantos anos vagueei sem Ti!\nMas, Senhor, me resgataste aqui.\nOh! me lembro quão vazio andei,\nSó e angustiado eu chorei.",
+                "chorus": false
+            },
+            {
+                "content": "Dia após dia, Te amo mais;\nE hoje amo a Ti, Senhor, bem mais.",
+                "chorus": true
+            },
+            {
+                "content": "Oh! que sede interior provei,\nE satisfação em vão busquei!\nNada que tentei provar durou;\nInsatisfação só me restou.",
+                "chorus": false
+            },
+            {
+                "content": "Nessa infinda busca interior\nPor Ti sempre foi o meu clamor;\nEra cego a tudo procurar,\n'Té a viva Fonte encontrar.",
+                "chorus": false
+            },
+            {
+                "content": "Dia após dia, Te amo mais;\nE hoje amo a Ti, Senhor, bem mais.",
+                "chorus": true
+            },
+            {
+                "content": "Oh! Senhor, vieste a mim, então,\nCom dulcíssima satisfação!\nQual Espírito és tudo em mim,\nBorbulhando em meu espír'to enfim.",
+                "chorus": false
+            },
+            {
+                "content": "Graças, pois habitas hoje em mim\nE Te expandes dia a dia, assim.\nFaz morada em meu coração,\nQual tesouro me satura, então.",
+                "chorus": false
+            },
+            {
+                "content": "Dia após dia, Te amo mais;\nE hoje amo a Ti, Senhor, bem mais.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Carros e cavalos",
+        "type": "canticle",
+        "number": "27",
+        "ref": [
+            "carros-e-cavalos",
+            "C-27"
+        ],
+        "lyrics": [
+            {
+                "content": "Uns confiam em carros,\nOutros em cavalos;\nNós, porém, nos gloriaremos\nEm o nome do Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Eles se encurvam e caem;\nNós, porém, nos levantamos\nE nos mantemos em pé;\nA nossa força é o Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Bem-aventurado é o homem que confia no Senhor;\nEle é como árvore, que está plantada à beira da água.\nNa Tua força, Senhor, ele se alegra,\nE como exulta no Teu salvamento,\nVida ele já tem em abundância,\nE desde já conhece a eternidade.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Celebrai",
+        "type": "canticle",
+        "number": "28",
+        "ref": [
+            "celebrai",
+            "C-28"
+        ],
+        "lyrics": [
+            {
+                "content": "Celebrai com júbilo ao Senhor,\nVós todos moradores da terra;\nServi ao Senhor com alegria,\nApresentai-vos a Ele com cânticos.",
+                "chorus": false
+            },
+            {
+                "content": "Porque que o Senhor é bom\nE eterna Sua vontade,\nE a Sua fidelidade\nDe geração em geração.",
+                "chorus": false
+            },
+            {
+                "content": "Aleluia, glória, aleluia!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Clamaram ao Senhor",
+        "type": "canticle",
+        "number": "29",
+        "ref": [
+            "clamaram-ao-senhor",
+            "C-29"
+        ],
+        "lyrics": [
+            {
+                "content": "Pelo deserto, errantes se vão;\nErmos caminhos, na solidão,\nFome e sede a padecer,\nNeles a alma a desfalecer.\nClamaram ao Senhor\nE Ele os livrou.",
+                "chorus": false
+            },
+            {
+                "content": "Em densas trevas, escuridão,\nPresos em ferros e de aflição,\nPor terem desprezado a Deus\nForam ao chão, ninguém os ergueu.\nClamaram ao Senhor\nE Ele os livrou.",
+                "chorus": false
+            },
+            {
+                "content": "Os tolos, sim, feridos serão\nPor seu caminho de transgressão.\nRejeitarão se alimentar,\nPerto da morte assim vão chegar.\nClamaram ao Senhor\nE Ele os livrou.",
+                "chorus": false
+            },
+            {
+                "content": "Ele falou e fez levantar\nA tempestade em alto mar.\nCom tanta angústia, a derivar,\nSem tino estão a cambalear.\nClamaram ao Senhor\nE Ele os livrou.",
+                "chorus": false
+            },
+            {
+                "content": "Toda tormenta Deus fez cessar;\nSe acalmaram as ondas do mar.\nAo desejado porto os levou;\nCom a Palavra, Deus os sarou.\nLouvaram ao Senhor,\nLouvaram ao Senhor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Como não te amar?",
+        "type": "canticle",
+        "number": "30",
+        "ref": [
+            "como-não-te-amar?",
+            "C-30"
+        ],
+        "lyrics": [
+            {
+                "content": "Ó Senhor, a Ti venho -\nDoce comunhão quero ter!\nLeva-me a desfrutar\nTeu rico Ser singular!",
+                "chorus": false
+            },
+            {
+                "content": "És tão belo e formoso!\nFrente a tudo o que és, como não Te amar?\nA Ti vou me apegar, comunhão doce ter,\nConsagrar meu serviço a Ti.",
+                "chorus": true
+            },
+            {
+                "content": "Privilégio tão grande -\nResgatado do mundo estou!\nAdoração e louvor\nA Ti eu quero render!",
+                "chorus": false
+            },
+            {
+                "content": "A igreja me deste -\nTeu descanso e habitação!\nEternamente serei\nGrato a Ti, meu Senhor!",
+                "chorus": false
+            },
+            {
+                "content": "Vida rica, tão plena -\nTraspassado foste por mim,\nPra hoje todo o meu ser\nSe derramar para Ti!",
+                "chorus": false
+            },
+            {
+                "content": "Tua volta anseio -\nFace a face Te contemplar!\nEnquanto aguardo, Senhor,\nNo espír'to quero queimar!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Cristo é quem dá vida",
+        "type": "canticle",
+        "number": "31",
+        "ref": [
+            "cristo-é-quem-dá-vida",
+            "C-31"
+        ],
+        "lyrics": [
+            {
+                "content": "Cristo é quem dá vida,\nDá vida a mim;\nQuando o Seu nome eu invocar\nEle me libertará.\nCristo é quem dá vida,\nEle vive em mim;\nNão só um nome Ele é,\nMas realidade é.",
+                "chorus": false
+            },
+            {
+                "content": "Cristo é quem dá vida,\nDá vida a mim;\nQuando o Seu nome eu invocar,\nEle me alimentará.\nCristo é quem dá vida,\nEle vive em mim;\nNão só um nome Ele é,\nMas pão da vida é.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "De Deus, o desejo e mandamento",
+        "type": "canticle",
+        "number": "32",
+        "ref": [
+            "de-deus,-o-desejo-e-mandamento",
+            "C-32"
+        ],
+        "lyrics": [
+            {
+                "content": "De Deus, o desejo e mandamento é\nQue Seu povo invoque sempre o nome Seu.\nÉ o modo alegre, alegre de beber\nDa fonte da rica salvação de Deus.",
+                "chorus": false
+            },
+            {
+                "content": "Invocar é o modo de deleitar-se em Deus,\nÉ pra desfrutarmos do nosso Senhor.\nAssim, cada dia devemos invocar,\nEssa prática é pra o jubileu de Deus.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "De manhã, Senhor",
+        "type": "canticle",
+        "number": "33",
+        "ref": [
+            "de-manhã,-senhor",
+            "C-33"
+        ],
+        "lyrics": [
+            {
+                "content": "De manhã, Senhor,\nOuves minha voz,\nDe manhã apresento minha oração,\nE fico esperando.",
+                "chorus": false
+            },
+            {
+                "content": "Agradeço pelo dia que já raiou,\nPelas bênçãos que pra mim\nJá preparou o Senhor.\n(Preparou o Senhor).",
+                "chorus": false
+            },
+            {
+                "content": "Por Tuas misericórdias,\nQue hoje são mais novas,\nPor Tua bondade e graça,\nQue comigo estão durante todo o dia.",
+                "chorus": true
+            },
+            {
+                "content": "Ainda ao deitar,\nComigo estarás,\nMinha alma guardarás em Tuas mãos\nEnquanto eu durmo.",
+                "chorus": false
+            },
+            {
+                "content": "Em paz me deito,\nEntão logo o sono vem,\nPois só Tu, Senhor, me fazes seguro repousar.\n(Seguro repousar).",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Deus Triúno, que mistério",
+        "type": "canticle",
+        "number": "34",
+        "ref": [
+            "deus-triúno,-que-mistério",
+            "C-34"
+        ],
+        "lyrics": [
+            {
+                "content": "Mistério tão profundo\nDeus é um e é três.\nÓ Deus, maravilhoso és,\nTriúno, grande és!",
+                "chorus": false
+            },
+            {
+                "content": "Mistério tão profundo\nDeus é um e é três.\nÓ Deus, maravilhoso és,\nTriúno, grande és!",
+                "chorus": false
+            },
+            {
+                "content": "Aquele que nasceu,\nDeus forte Ele é,\nUm Filho se nos deu,\nÉ o Pai eternal,\nMenino, forte Deus,\nMaravilhoso é!\nO Filho é um co'o Pai;\nMistério sem igual!",
+                "chorus": true
+            },
+            {
+                "content": "É o Senhor o Espír'to,\nQuem o pode explicar?\nTal Cristo vivo entrou em mim,\nE vida veio dar.",
+                "chorus": false
+            },
+            {
+                "content": "É o Senhor o Espír'to,\nGlorioso e real!\nTal Cristo vivo entrou em nós,\nCom vida eternal.",
+                "chorus": false
+            },
+            {
+                "content": "O último Adão\nTornou-se Espírito;\nCristo, o Espírito,\nTodo-inclusivo é.\nO último Adão\nTornou-se Espírito\nCristo é o Espírito\nE hoje habita em nós.",
+                "chorus": true
+            },
+            {
+                "content": "Deus Pai, no Filho, veio\nE aqui me alcançou,\nDeus, qual Espír'to, entrou em mim;\nMorada Dele sou!",
+                "chorus": false
+            },
+            {
+                "content": "Manancial é Deus Pai,\nDeus, o Filho, o jorrar,\nE o Espír'to, o fluir,\nFluindo sem cessar.",
+                "chorus": false
+            },
+            {
+                "content": "O Deus Triúno em mim: \nÉ um mistério, sim!\nOh! que glorioso é!\nO Deus Triúno em nós!\nO Deus Triúno em mim: \nÉ um mistério, sim!\nMaravilhoso é!\nO Deus Triúno em nós!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "É meu anelo, Jesus",
+        "type": "canticle",
+        "number": "35",
+        "ref": [
+            "é-meu-anelo,-jesus",
+            "C-35"
+        ],
+        "lyrics": [
+            {
+                "content": "É meu anelo, Jesus,\nSer conquistado por Ti;\nAtrai-me mais com o Teu amor,\nE correremos 'pós Ti.",
+                "chorus": false
+            },
+            {
+                "content": "Jesus, o meu Amado,\nMe conquistou;\nE qual jardim fechado\nSomente Dele eu sou!",
+                "chorus": true
+            },
+            {
+                "content": "Beijado sou pelo Pai,\nDesfruto Teu forte amor,\nO mundo, então, já não me atrai;\nSó quero a Ti, meu Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Teu nome! Como esquecer?\nÉ minha satisfação;\nQual derramado ungüento em mim,\nUngindo meu coração.",
+                "chorus": false
+            },
+            {
+                "content": "Ó Fonte do meu prazer,\nDeclaro hoje a Ti: \nSou Teu, Amado, de mais ninguém;\nJesus, sou louco por Ti!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Esperança do nosso chamamento",
+        "type": "canticle",
+        "number": "36",
+        "ref": [
+            "esperança-do-nosso-chamamento",
+            "C-36"
+        ],
+        "lyrics": [
+            {
+                "content": "Antes da fundação do mundo, Deus nos escolheu\nPara sermos santos e perfeitos Nele;\nEm amor, Ele nos predestinou à filiação\nPelo bom prazer da Sua vontade, em Cristo.",
+                "chorus": false
+            },
+            {
+                "content": "Essa é a esperança do nosso chamamento: \nAlcançarmos plena filiação!\nEssa é a esperança do nosso chamamento: \nSermos Sua herança e expressão.",
+                "chorus": true
+            },
+            {
+                "content": "Todas as coisas, para o nosso bem vêm cooperar\nE fazer-nos Seus herdeiros já maduros;\nHoje se nós sofrermos com o Senhor, crescendo assim\nNo porvir, nós reinaremos com Ele, em glória!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Estar em Cristo",
+        "type": "canticle",
+        "number": "37",
+        "ref": [
+            "estar-em-cristo",
+            "C-37"
+        ],
+        "lyrics": [
+            {
+                "content": "Eu só quero estar em meu Jesus\nDesfrutando paz e vida;\nNuma experiência pessoal,\nMui clara e definida.",
+                "chorus": false
+            },
+            {
+                "content": "Eu só quero estar em meu Jesus\nQual um ramo na videira,\nDesfrutando tudo o que Ele é,\nExpressando a rica seiva.",
+                "chorus": false
+            },
+            {
+                "content": "Eu só quero estar em meu Jesus\nE não sair por nada.\nEu só quero estar em meu Jesus\nE não sair, e não sair,\nE não sair por nada.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Fiel é a Palavra",
+        "type": "canticle",
+        "number": "38",
+        "ref": [
+            "fiel-é-a-palavra",
+            "C-38"
+        ],
+        "lyrics": [
+            {
+                "content": "Deus não é homem, para que minta;\nNem filho do homem, pra que se arrependa.\nPorventura, tendo Ele prometido, não o fará?\nOu tendo falado, não o cumprirá?",
+                "chorus": false
+            },
+            {
+                "content": "Nenhuma promessa falhou\nDas boas palavras que o Senhor\nFalara à casa de Israel:  tudo se cumpriu.\nFalara à casa de Israel:  tudo se cumpriu.",
+                "chorus": false
+            },
+            {
+                "content": "Passará o céu e a terra,\nPassará o céu e a terra,\nPorém as minhas palavras não passarão.\nPorém as minhas palavras não passarão.",
+                "chorus": false
+            },
+            {
+                "content": "Fiel é a Palavra\nE digna de inteira aceitação.\nFiel é a Palavra\nE digna de inteira aceitação.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Glória para sempre",
+        "type": "canticle",
+        "number": "39",
+        "ref": [
+            "glória-para-sempre",
+            "C-39"
+        ],
+        "lyrics": [
+            {
+                "content": "Glória pra sempre ao Cordeiro de Deus,\nA Jesus, o Senhor, ao Leão de Judá,\nÀ Raiz de Davi, que venceu\nE o livro abrirá.",
+                "chorus": false
+            },
+            {
+                "content": "O céu, a terra e o mar,\nE tudo o que neles há,\nO adorarão e confessarão: \nQue Jesus Cristo é o Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Cristo é o Senhor, Ele é o Senhor.\nRessurreto dentre os mortos, Ele é o Senhor.\nTodo joelho se dobrará,\nToda língua confessará\nQue Jesus Cristo é o Senhor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Guarda, Senhor, o meu coração",
+        "type": "canticle",
+        "number": "40",
+        "ref": [
+            "guarda,-senhor,-o-meu-coração",
+            "C-40"
+        ],
+        "lyrics": [
+            {
+                "content": "Guarda, Senhor, o meu coração;\nQue não se afaste de Ti jamais;\nFiel, sempre puro, que veja só a Ti,\nE ame apenas a Ti e ninguém mais.",
+                "chorus": false
+            },
+            {
+                "content": "Constrange-me, Senhor, consagro tudo a Ti.\nTão atraente és, é Teu meu coração.\nQue privilégio:  meu ser é todo Teu!\nEu amo a Ti, só a Ti! Te amo, ó meu Senhor.",
+                "chorus": true
+            },
+            {
+                "content": "Faz meu amor não se esfriar;\nNem se apague, mas queime em Ti.\nQue seu brilho intenso aumente mais em mim\nTão novo como quando eu Te conheci.",
+                "chorus": false
+            },
+            {
+                "content": "Dou-Te, Senhor, minha vida aqui,\nSe mil tivesse, daria a Ti;\nSou Teu, dou-Te tudo, e nada vou reter.\nO meu futuro, Senhor, consagro a Ti.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Habacuque 3: 17-19",
+        "type": "canticle",
+        "number": "41",
+        "ref": [
+            "habacuque-3: 17-19",
+            "C-41"
+        ],
+        "lyrics": [
+            {
+                "content": "Ainda que a figueira não floresce,\nNem há fruto na vide,\nE o produto da oliveira mente.",
+                "chorus": false
+            },
+            {
+                "content": "Os campos não produzem mantimentos,\nAs ovelhas foram arrebatadas\nDo aprisco, do aprisco.",
+                "chorus": false
+            },
+            {
+                "content": "Todavia, eu me alegro no Senhor\nE exulto no Deus da minha salvação,\nO Senhor meu Deus é a minha força\nE me faz andar vitoriosamente.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Ilimitado amor",
+        "type": "canticle",
+        "number": "42",
+        "ref": [
+            "ilimitado-amor",
+            "C-42"
+        ],
+        "lyrics": [
+            {
+                "content": "No pecado estava imerso todo o meu ser,\nSem nenhum caminho pra seguir.\nVendo Deus a minha lastimável condição,\nO Seu Filho deu, por me amar!",
+                "chorus": false
+            },
+            {
+                "content": "Recebi misericórdia, grande salvação -\nOh! que amor, desfruto eu!\n\"Onde abundou o pecado,\nSuperabundou a graça.\"\nOh! ilimitado amor,\nCristo hoje é meu!",
+                "chorus": true
+            },
+            {
+                "content": "A lei demonstrou ao homem sua condição -\nSeu trabalho para Deus é vão.\nMas, em Seu propósito, Deus quer vir trabalhar\nNeste homem que criou pra Si!",
+                "chorus": false
+            },
+            {
+                "content": "Quando vejo a cruz descanso - Cristo ressurgiu!\nEle pagou tudo por mim.\nHoje tenho livre acesso\nÀ Sua Pessoa viva -\nAo Santo dos Santos, vou\nSempre me achegar!",
+                "chorus": true
+            },
+            {
+                "content": "Deus ao aceitar o sacrifício de Jesus,\nSuas exigências satisfez;\nComo prova disto, ao Senhor ressuscitou.\nE com Ele hoje vivo eu!",
+                "chorus": false
+            },
+            {
+                "content": "Através do Seu Espír'to trouxe-me à luz -\nOh! comunhão tão divinal!\nBasta abrir meu ser a Ele\nInvocando o Seu nome: \n\"Ó Senhor Jesus! Amém!\"\nSalvo sempre sou!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Infinita gratidão",
+        "type": "canticle",
+        "number": "43",
+        "ref": [
+            "infinita-gratidão",
+            "C-43"
+        ],
+        "lyrics": [
+            {
+                "content": "Ao meu Senhor eu vou cantar, pois recebi\nMisericórdia, amor e graça em Cristo Jesus.\nOh! que amor! mesmo não merecendo, deu-Se para mim.\nAbro o meu coração\nPara render-Te louvor;\nHá uma infinita gratidão,\nPor tudo o que tens feito a mim!",
+                "chorus": false
+            },
+            {
+                "content": "Em meu lugar cumpriu Jesus toda a lei.\nObedeceu - por Seu sofrer me justificou.\nSatisfez o coração de Deus. Eis a redenção!\nAbro o meu coração\nPara render-Te louvor;\nHá uma infinita gratidão,\nPor tudo que tens mostrado a mim!",
+                "chorus": false
+            },
+            {
+                "content": "As boas novas o Senhor me revelou.\nOh! quanta graça - Seu amor jorrou dentro em mim!\nSeu olhar tão cheio de ternura, a Deus me levou.\nAbro o meu coração\nPara render-Te louvor;\nHá uma infinita gratidão\nPor tudo o que tens feito a mim!",
+                "chorus": false
+            },
+            {
+                "content": "Caminho vivo abriu Jesus - rasgou-se o véu.\nRessuscitou - cumpriu-se a obra! Vive o Senhor!\nOh! que paz! no Santo dos Santos posso penetrar!\nAbro o meu coração\nPara render-Te louvor;\nTeu nome rico invocarei -\nÓ Jesus! precioso és para mim!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Invocarei o Nome do Senhor",
+        "type": "canticle",
+        "number": "44",
+        "ref": [
+            "invocarei-o-nome-do-senhor",
+            "C-44"
+        ],
+        "lyrics": [
+            {
+                "content": "Pois inclinou para mim os Seus ouvidos,\nO invocarei enquanto eu viver.\nLaços de morte me cercaram,\nE angústias do inferno se apoderaram de mim: \nCaí em tribulação, tristeza.\nEntão invoquei o nome do Senhor: ",
+                "chorus": false
+            },
+            {
+                "content": "Ó Senhor, livra a minh'alma,\nÓ Senhor, livra a minh'alma.",
+                "chorus": false
+            },
+            {
+                "content": "Tomarei o cálice da salvação,\nE invocarei o nome do Senhor.\nInvocarei o nome, invocarei o nome,\nInvocarei o nome do Senhor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Já decidimos viver no espírito",
+        "type": "canticle",
+        "number": "45",
+        "ref": [
+            "já-decidimos-viver-no-espírito",
+            "C-45"
+        ],
+        "lyrics": [
+            {
+                "content": "Já decidimos viver no espírito,\nJá decidimos viver no espírito,\nJá decidimos viver no espírito: \nHabitaremos no Senhor!",
+                "chorus": false
+            },
+            {
+                "content": "Pra andar no espír'to clamamos:  ó Senhor!\nPra andar no espír'to clamamos:  ó Senhor!\nPra andar no espír'to clamamos:  ó Senhor,\nBasta invocar:  Senhor Jesus!",
+                "chorus": false
+            },
+            {
+                "content": "Enchendo a alma com o Espírito,\nEnchendo a alma com o Espírito,\nEnchendo a alma com o Espírito,\nAté o Noivo retornar.",
+                "chorus": false
+            },
+            {
+                "content": "Alegres sempre, orando sem cessar\nAlegres sempre, orando sem cessar\nAlegres sempre, orando sem cessar\nLouvando sempre o Senhor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Jardim de Deus",
+        "type": "canticle",
+        "number": "46",
+        "ref": [
+            "jardim-de-deus",
+            "C-46"
+        ],
+        "lyrics": [
+            {
+                "content": "Há um jardim que Deus nos faz\nGuardião da vida, fruto da paz;\nSomos parceiros, empreendedores\nE construtores da eterna história.",
+                "chorus": false
+            },
+            {
+                "content": "Ah! Senhor, fizeste de nós assim,\nQuem cultiva e quem guarda o Teu jardim;\nEm sombra deste ao doce par,\nA semente da vida pra semear.",
+                "chorus": true
+            },
+            {
+                "content": "Neste jardim não há lugar\nPara amargura, pois Deus nos faz\nReconciliados; com o véu rasgado\nSomos levados a adorá-Lo.",
+                "chorus": false
+            },
+            {
+                "content": "Ah! Senhor, fizeste tão bem assim,\nPois grande é o mistério que levo em mim.\nEternamente escrito está,\nTeu amor nos surpreende,\nTe quero amar.",
+                "chorus": true
+            },
+            {
+                "content": "Neste jardim que Deus nos dá\nVigiamos juntos a esperar\nO Seu regresso, naquele dia\nNão seja laço, mas recompensa.",
+                "chorus": false
+            },
+            {
+                "content": "Ah! Senhor, Te rende a tal clamar;\nAbrevia este tempo, volta a casa resgatar\nEntão pois venha Teu reino, e traz\nA expressão da Tua glória,\nSomos um e não dois mais",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Levantai, ó portas",
+        "type": "canticle",
+        "number": "47",
+        "ref": [
+            "levantai,-ó-portas",
+            "C-47"
+        ],
+        "lyrics": [
+            {
+                "content": "Levantai, ó portas, as vossas cabeças;\nLevantai-vos, ó portais eternos,\nPara que entre o Rei, o Rei da Glória.\nQuem é o Rei, quem é o Rei da Glória?\nO Senhor forte e poderoso, o Senhor,\nPoderoso nas batalhas.",
+                "chorus": false
+            },
+            {
+                "content": "Levantai, ó portas, as vossas cabeças;\nLevantai-vos, ó portais eternos,\nPara que entre o Rei, o Rei da Glória.\nQuem é o Rei, quem é o Rei da Glória?\nO Senhor dos Exércitos,\nEle é o Rei, Ele é o Rei da Glória.\nLá, lá, lá, lá, lá, lá...",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Louco de Amor",
+        "type": "canticle",
+        "number": "48",
+        "ref": [
+            "louco-de-amor",
+            "C-48"
+        ],
+        "lyrics": [
+            {
+                "content": "Ó Senhor Jesus, como sou louco por Ti!\nSim, por Ti, desfaleço de amor;\nTeu amor é melhor que o vinho a mim,\nCom Teus beijos me beijas, Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "É Teu nome, Senhor, como ungüento em mim,\nQue me leva a correr após Ti;\nNas recâmaras, já desfrutei Teu amor,\nComo então não ser louco por Ti?",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Luz do mundo",
+        "type": "canticle",
+        "number": "49",
+        "ref": [
+            "luz-do-mundo",
+            "C-49"
+        ],
+        "lyrics": [
+            {
+                "content": "De novo lhes falava Jesus,\nDizendo:  Eu sou a luz do mundo.\nDe novo lhes falava Jesus,\nDizendo:  Eu sou a luz do mundo.",
+                "chorus": false
+            },
+            {
+                "content": "Quem Me segue não andará nas trevas,\nQuem Me segue não andará nas trevas,\nPelo contrário, terá a luz da vida;\nPelo contrário, terá a luz da vida.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Manancial de águas vivas",
+        "type": "canticle",
+        "number": "50",
+        "ref": [
+            "manancial-de-águas-vivas",
+            "C-50"
+        ],
+        "lyrics": [
+            {
+                "content": "Qual suspiro da corça\nPelas correntes das águas,\nAssim, por Ti, ó Deus,\nSuspira a minh'alma!\nO meu coração tem sede\nDe Ti, meu Deus!\nOh! fonte viva, inesgotável!\nVem suprir-me\nCom Teu próprio Ser.",
+                "chorus": false
+            },
+            {
+                "content": "Como cisterna rota\nQue não retém suas águas,\nÉ meu interior\nSem Tua presença.\nO prazer que tanto anelo\nSó Tu me dás!\nManancial de águas vivas!\nVem suprir-me\nCom Teu próprio Ser.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Mas vós sois raça eleita",
+        "type": "canticle",
+        "number": "51",
+        "ref": [
+            "mas-vós-sois-raça-eleita",
+            "C-51"
+        ],
+        "lyrics": [
+            {
+                "content": "Mas vós sois raça eleita, (raça eleita)\nSacerdócio real, (sacerdócio real)\nNação santa,\nPovo por possessão, (povo por possessão)\nA fim de proclamardes as virtudes\nDaquele (que voschamou)\nQue vos chamou\nDas trevas para Sua maravilhosa luz.\nDas trevas para a maravilhosa luz.",
+                "chorus": false
+            },
+            {
+                "content": "Vós que outrora não éreis, (não éreis povo)\nMas agora sois, (agora sois)\nAgora sois povo de Deus. (sois povo de Deus)\nQue não tínheis alcançado misericórdia;\nMas agora (alcançastes)\nAlcançastes;\nNão tínheis alcançado misericórdia,\nAgora alcançastes misericórdia.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Meu coração é Teu",
+        "type": "canticle",
+        "number": "52",
+        "ref": [
+            "meu-coração-é-teu",
+            "C-52"
+        ],
+        "lyrics": [
+            {
+                "content": "Meu coração é Teu, Senhor,\nE nada, nada pode roubá-lo,\nMesmo que tudo tente me impedir\nDe poder derramar\nMeu coração para Ti.",
+                "chorus": false
+            },
+            {
+                "content": "Todo o meu coração é Teu,\nE nada, nada pode roubá-lo,\nMesmo que tudo tente me impedir\nDe poder derramar\nMeu coração para Ti.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Não andeis preocupados",
+        "type": "canticle",
+        "number": "53",
+        "ref": [
+            "não-andeis-preocupados",
+            "C-53"
+        ],
+        "lyrics": [
+            {
+                "content": "Não andeis preocupados\nQuanto ao vestir e ao comer;\nOlhai os lírios dos campos\nQue são tão belos.",
+                "chorus": false
+            },
+            {
+                "content": "Olhai também as aves,\nQue não plantam nem colhem;\nSe Deus protege as aves,\nQuanto mais vós, vos protegerá",
+                "chorus": false
+            },
+            {
+                "content": "A vida é mais que o alimento,\nO corpo mais que a veste;\nDeixai as coisas do mundo,\nSegui as pegadas do Mestre.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Não me deixará",
+        "type": "canticle",
+        "number": "54",
+        "ref": [
+            "não-me-deixará",
+            "C-54"
+        ],
+        "lyrics": [
+            {
+                "content": "Oh! Deus habita em mim!\nMaravilhoso e verdadeiro;\nBem perto Ele está\nDe mim, o dia inteiro.\nO meu Senhor, com Seu amor,\nEstá no espír'to meu;\nBem dentro em mim,\nExiste Deus!",
+                "chorus": false
+            },
+            {
+                "content": "Não me deixará, não me deixará,\nNão me deixará sozinho.",
+                "chorus": true
+            },
+            {
+                "content": "Ainda que uma mãe\nSe esqueça do seu filho amado,\nMas, pelo meu Senhor,\nEu sempre sou lembrado.\nSe só estou, ainda vou\nSer consolado assim: \nExiste Deus\nBem dentro em mim!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Não prometeu Deus",
+        "type": "canticle",
+        "number": "55",
+        "ref": [
+            "não-prometeu-deus",
+            "C-55"
+        ],
+        "lyrics": [
+            {
+                "content": "Não prometeu Deus céu sempre azul,\nNem mar de rosas, brisa do sul;\nOu sol sem chuva, riso sem dor,\nGozo sem choro, paz sem labor.",
+                "chorus": false
+            },
+            {
+                "content": "Mas prometeu descanso em labor,\nLuz para a senda, diário vigor;\nGraça e socorro na provação,\nAmor infindo e compaixão.",
+                "chorus": true
+            },
+            {
+                "content": "Não prometeu não vermos jamais\nVis tentações e lutas e ais;\nTampouco disse:  \"Não haverá\nMuitos encargos, lidas, pesar\".",
+                "chorus": false
+            },
+            {
+                "content": "Não prometeu trilhar a amplidão,\nJornada fácil, sem direção,\nNão haver montes para galgar,\nRios rochosos para cruzar.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Não temerei",
+        "type": "canticle",
+        "number": "56",
+        "ref": [
+            "não-temerei",
+            "C-56"
+        ],
+        "lyrics": [
+            {
+                "content": "Eis que os planos são amos\nQue prendem, destratam, nossos corações.\nEis que o dia retrata,\nA noite delata nossas intenções.",
+                "chorus": false
+            },
+            {
+                "content": "Eis que, embora aparente,\nA força da gente não passa daqui;\nE, por mais que se tente,\nO mais diligente não vai conseguir.",
+                "chorus": false
+            },
+            {
+                "content": "Não temerei, não temerei,\nPois minha força se faz no Senhor;\nNão temerei, não temerei,\nPois não persiste o medo no amor.",
+                "chorus": true
+            },
+            {
+                "content": "Esses dias cabais\nSomam tantos sinais - impossível negar\nQue o tempo é urgente,\nNos resta somente a Cristo buscar.",
+                "chorus": false
+            },
+            {
+                "content": "São tais monstros gigantes;\nSubamos avante, vamos possuir\nEsta terra sagrada,\nPois Deus, doravante, nos insere aqui.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Nasce o sol, põe-se o sol",
+        "type": "canticle",
+        "number": "57",
+        "ref": [
+            "nasce-o-sol,-põe-se-o-sol",
+            "C-57"
+        ],
+        "lyrics": [
+            {
+                "content": "Nasce o sol, põe-se o sol,\nSempre a mesma cena ao meu redor.\nNasce a lua, põe-se a lua,\nSempre a mesma cena ao meu redor.",
+                "chorus": false
+            },
+            {
+                "content": "Nada há de novo embaixo do sol,\nNada há de novo embaixo do sol.",
+                "chorus": false
+            },
+            {
+                "content": "Todas coisas são canseiras\nTais que não se pode exprimir,\nOs olhos não se fartam de ver,\nNem os ouvidos de ouvir.",
+                "chorus": false
+            },
+            {
+                "content": "Mas existem boas coisas de se ver,\nMas existem boas coisas de se ouvir.",
+                "chorus": false
+            },
+            {
+                "content": "Desde que eu apliquei o meu coração\nPra saber o que se passa embaixo do sol,\nDescobri que todas as coisas são canseiras\nTais que não se pode exprimir.",
+                "chorus": false
+            },
+            {
+                "content": "Mas eu tenho o meu Jesus pra ver,\nMas eu tenho o meu Jesus pra ouvir.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "No princípio era o Verbo",
+        "type": "canticle",
+        "number": "58",
+        "ref": [
+            "no-princípio-era-o-verbo",
+            "C-58"
+        ],
+        "lyrics": [
+            {
+                "content": "No princípio era o Verbo,\nE o Verbo era Deus,\nPor quem fez-se o Universo\nPra cumprir o plano Seu.\nE estava Nele a vida,\nQue dos homens era a luz;\nO \"Eu Sou\" tão suficiente,\nDisponível é Jesus!",
+                "chorus": false
+            },
+            {
+                "content": "O \"Eu Sou\", o Deus eterno,\nMinha rica provisão,\nMeu desfrute todo o tempo,\nQue satisfação!",
+                "chorus": true
+            },
+            {
+                "content": "E o Verbo fez-se carne,\nDeus ao homem se mesclou;\nO Deus antes nunca visto,\nCristo, o Filho, O revelou.\nEis o divinal Cordeiro,\nQue o pecado já tirou;\nSua obra resgatou-me,\nVou segui-Lo aonde for.",
+                "chorus": false
+            },
+            {
+                "content": "Uma vez glorificado\nQual Espír'to veio a mim,\nSou por Ele transformado,\nSua casa surge assim.\nGrandioso é ver a escada\nQue a terra une ao céu;\nÉ Jesus, o meu caminho,\nÉ o templo, é Betel.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "No último dia",
+        "type": "canticle",
+        "number": "59",
+        "ref": [
+            "no-último-dia",
+            "C-59"
+        ],
+        "lyrics": [
+            {
+                "content": "No último dia, o grande dia da festa,\nJesus levantou-se e exclamou: \n\"Se alguém tem sede, venha a Mim e beba,\nPois quem crer em Mim, do seu interior\nFluirão rios de água viva.\"\nNão simples água, mas de água viva,\nNão simples água, mas de água viva.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Nós amamos a Vida da Igreja",
+        "type": "canticle",
+        "number": "60",
+        "ref": [
+            "nós-amamos-a-vida-da-igreja",
+            "C-60"
+        ],
+        "lyrics": [
+            {
+                "content": "Hoje alguns diriam que Jesus não é comida,\nQue conhecimento e esforço bastam pra ter vida,\nMas estou feliz, pois sei que não é bem assim,\nCristo é o Pão da vida que comemos, hoje, sim.",
+                "chorus": false
+            },
+            {
+                "content": "Nós amamos a vida da igreja,\nComendo, respirando, bebendo Jesus.\nQue bom ouvir os tais:  \"O Senhor Jesus, amém!\"\nMaravilhoso é ter comunhão com Deus!",
+                "chorus": true
+            },
+            {
+                "content": "Quando Ele nos enche nunca mais os mesmos somos,\nE ao invocá-Lo as riquezas Suas temos.\nCulto só aos domingos para nós nunca haverá,\nTodo dia comungamos para caminhar.",
+                "chorus": false
+            },
+            {
+                "content": "Se os nossos dias e as religiões do mundo\nO deixam cansado, num vazio tão profundo,\nÉ porque você, talvez, ainda não provou\nA vida da igreja, onde Cristo é o Senhor.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Nova aliança",
+        "type": "canticle",
+        "number": "61",
+        "ref": [
+            "nova-aliança",
+            "C-61"
+        ],
+        "lyrics": [
+            {
+                "content": "Nova alinça, Deus aqui firmou,\nCom precioso sangue de Cristo a selou\nAliança eterna, tão superior!\nComo rejeitá-la, seu selo é de amor.\nSombras e figuras Deus já concedeu,\nMas chegando Cristo o que é real nasceu.\nDeu-me Sua herança - posso me apossar!\nTal legado santo a Bíblia vem-me dar.",
+                "chorus": false
+            },
+            {
+                "content": "Deus Pai fez um plano, Cristo o executou;\nO fluir do Espír'to ao homem alcançou,\nConcedeu-me vida para O expressar -\nVida indissolúvel que a morte vem tragar.\nCristo, o Sacerdote, adentrou o véu,\nÉ incomparável, na terra e no céu!\nO Santo dos Santos deu-me, que lugar!\nNele minha alma já posso ancorar.",
+                "chorus": false
+            },
+            {
+                "content": "Nessa esfera santa, cheia de prazer,\nO que é terreno não pode me prender;\nPara ter tal vida rica, celestial,\nInvocar Seu nome é tão essencial.\nContemplando Cristo, vou me saturar;\nO Seu santo nome me faz mais alto estar.\nAnte esses fatos, que mais vou dizer?\nÓ Jesus, Te amo! É Teu o meu viver!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "O amor de Deus e a graça de Cristo",
+        "type": "canticle",
+        "number": "62",
+        "ref": [
+            "o-amor-de-deus-e-a-graça-de-cristo",
+            "C-62"
+        ],
+        "lyrics": [
+            {
+                "content": "O amor de Deus, de Cristo a graça,\nE a comunhão do Santo Espírito\nSejam sempre com todos vós.\nSejam com todos, com todos vós.",
+                "chorus": false
+            },
+            {
+                "content": "Flui do trono de Deus e do Cordeiro\nO rio da água da vida,\nComo cristal, vindo a nós.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "O ciclo da comunhão com Deus",
+        "type": "canticle",
+        "number": "63",
+        "ref": [
+            "o-ciclo-da-comunhão-com-deus",
+            "C-63"
+        ],
+        "lyrics": [
+            {
+                "content": "E a Vida que é divina e eterna se manifestou;\nAleluia, esta Vida, um dia em nós entrou!",
+                "chorus": false
+            },
+            {
+                "content": "Não individualista, (É coletiva)\nGera a comunhão; (Comunhão)\nJá ganhamos pra sempre ('Stá dentro em nós)\nNa regeneração. (Regeneração)",
+                "chorus": true
+            },
+            {
+                "content": "Comunhão é com o Pai e o Filho, Cristo Jesus,\nManteremos comunhão se andarmos sempre na luz.",
+                "chorus": false
+            },
+            {
+                "content": "Mas podemos quebrá-la (Sim, quebrá-la)\nSe pecados houver, (Se pecar)\nSe odiarmos os santos - (Não os amando)\nTudo a luz vem expor. (Vem expor)",
+                "chorus": true
+            },
+            {
+                "content": "Essa luz vem todos nossos pecados e faltas mostrar\nSe mais vida, temos mais comunhão, mais iluminar.",
+                "chorus": false
+            },
+            {
+                "content": "A mensagem é esta:  (Dele ouvimos)\nNosso Deus é a luz; (Deus é luz)\nNão há treva nenhuma, (Treva nenhuma)\nNele, trevas não há. (Nele não há)",
+                "chorus": true
+            },
+            {
+                "content": "Vem o sangue de Jesus, o Seu Filho, nos purificar,\nConfessando os pecados, podemos à vida voltar.",
+                "chorus": false
+            },
+            {
+                "content": "Ele é o Paracleto, (Junto ao Pai)\nJusto intercessor; (E fiel)\nPelos nossos pecados (Do mundo inteiro)\nÉ a propiciação.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "O \"Eu Sou\"",
+        "type": "canticle",
+        "number": "64",
+        "ref": [
+            "o-\"eu-sou\"",
+            "C-64"
+        ],
+        "lyrics": [
+            {
+                "content": "Cristo, a Vida eterna,\nO próprio Deus Triúno,\nHomem se fez pra vida nos dar.\nSendo a Palavra viva,\nO Templo, a própria Vida,\nDeus criador, Cordeiro de Deus,",
+                "chorus": false
+            },
+            {
+                "content": "Em Sua morte nos amou,\nSangue e água derramou\nPra vida gerar.\nFonte de água que fluiu,\nO Pão da vida que supriu\nDe vida os Seus!,",
+                "chorus": true
+            },
+            {
+                "content": "O Espír'to que nos supre\nNos traz à luz da vida,\nO Bom Pastor é vida em nós!\nO Espír'to da verdade,\nVideira verdadeira,\nRei dos judeus, o nosso \"EU SOU\"!",
+                "chorus": false
+            },
+            {
+                "content": "O Deus que é ressurreição,\nO grão de trigo, que porção\nDe vida em nós!\nEle é o Cristo, o Senhor,\nNosso amado Redentor,\nO nosso EU SOU\"!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "O falar divino",
+        "type": "canticle",
+        "number": "65",
+        "ref": [
+            "o-falar-divino",
+            "C-65"
+        ],
+        "lyrics": [
+            {
+                "content": "Deus deseja falar,\nMas por meio do Seu Filho em nós;\nSendo limpos canais,\nEle em nós terá o Seu fluir.",
+                "chorus": false
+            },
+            {
+                "content": "Os nossos lábios desejam falar,\nCantar, exibir a Cristo, a Cristo,\nPra que das trevas, luz possa surgir -\nTragada seja a morte pela vida.",
+                "chorus": true
+            },
+            {
+                "content": "Pelo nosso falar,\nCristo a Deus oferecemos nós;\nEste Cristo exibir\nÉ o alvo do nosso viver.",
+                "chorus": false
+            },
+            {
+                "content": "Os nossos lábios desejam falar,\nCantar, exibir a Cristo, a Cristo,\nPra que das trevas, luz possa surgir -\nTragada seja a morte pela vida.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "O reinar do Senhor",
+        "type": "canticle",
+        "number": "66",
+        "ref": [
+            "o-reinar-do-senhor",
+            "C-66"
+        ],
+        "lyrics": [
+            {
+                "content": "Amo Teu nome, Senhor e Rei -\nFortalecido nele eu sou!\nAmor e graça gozo assim -\nTão disponível sempre está.",
+                "chorus": false
+            },
+            {
+                "content": "Um reto coração venhas me dar.\nForte em emoção, pra sempre Te dizer: \nQue bom é Te amar!\nMeus pensamentos, minha vontade,\nSejam escravos Teus, sempre a proclamar: \nQue bom é Te invocar!",
+                "chorus": true
+            },
+            {
+                "content": "Conhecimento pleno de Ti\nEm mim infundas, nobre Senhor!\nA todo tempo toques meu ser\nPela Palavra e comunhão!",
+                "chorus": false
+            },
+            {
+                "content": "Com os Teus santos, faz-me viver\nIntensamente o Teu reinar!\nQue Tua graça gere em mim\nUm proceder mui digno de Ti!",
+                "chorus": false
+            },
+            {
+                "content": "Como suspiras por Teu reinar -\nHomens dispostos a Te dizer: \n\"Venha o Teu reino\", faça-se em nós\nTua vontade, glorioso Rei!",
+                "chorus": false
+            },
+            {
+                "content": "Naqueles que são Teus, venhas reinar: \nTenham o Teu ungir, sempre o Teu falar,\nOh! Soberano Deus!\nPelo Espírito, sejam levados\nA todos proclamar:  És verdadeiro Rei -\nFormoso e divinal, Jesus!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "O sopro de Deus",
+        "type": "canticle",
+        "number": "67",
+        "ref": [
+            "o-sopro-de-deus",
+            "C-67"
+        ],
+        "lyrics": [
+            {
+                "content": "A Palavra do meu Deus traz a mim\nLuz e satisfação.\nPor amá-la, Cristo, assim,\nEngrandecido dia a dia no meu ser então será.",
+                "chorus": false
+            },
+            {
+                "content": "Sem Palavra, o Seu povo\nSe corrompe.\nMas, ao achá-la,\nProspera em seu viver.",
+                "chorus": true
+            },
+            {
+                "content": "Através do Seu falar, Deus me faz\nVer o que planejou: \nA igreja, como o lar,\nPara habitar com o Seu povo e ali, então, falar.",
+                "chorus": false
+            },
+            {
+                "content": "Junto àqueles que o Senhor separou,\nVivo a festejar.\nSeus profetas dão a nós\nRevelação das Escrituras que o nosso Deus soprou.",
+                "chorus": false
+            },
+            {
+                "content": "Tal falar traz unidade\nAo Seu povo!\nPor tal viver, sou\nMui grato ao meu Deus.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "O último Adão",
+        "type": "canticle",
+        "number": "68",
+        "ref": [
+            "o-último-adão",
+            "C-68"
+        ],
+        "lyrics": [
+            {
+                "content": "O último Adão tornou-se\nEspírito que dá vida;\nO Senhor é o Espírito,\nO Espírito da vida.",
+                "chorus": false
+            },
+            {
+                "content": "Mas aquele que se une ao Senhor\nÉ um espírito;\nOh! estamos unidos ao Senhor,\nSomos um espírito com Ele.",
+                "chorus": false
+            },
+            {
+                "content": "O último Adão tornou-se\nEspírito que dá vida;\nO Senhor é o Espírito,\nO Espírito da vida",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Orar é ver a Deus",
+        "type": "canticle",
+        "number": "69",
+        "ref": [
+            "orar-é-ver-a-deus",
+            "C-69"
+        ],
+        "lyrics": [
+            {
+                "content": "A oração é ver a Cristo,\nQue qual incenso é acrescido.\nAssim por Deus sou recebido\nPara O desfrutar.",
+                "chorus": false
+            },
+            {
+                "content": "Devo orar em meu espír'to;\nEu, Nele, faço o meu pedido;\nAli meu Deus é um comigo;\nE O contemplarei.",
+                "chorus": false
+            },
+            {
+                "content": "Todo o que pede, sim, recebe,\nQuem busca encontrará.\nE ao que bate, certamente,\nA porta se abrirá.",
+                "chorus": true
+            },
+            {
+                "content": "E quando estou em sofrimentos,\nO coração com mil tormentos,\nEntão me ocorre um pensamento: \n\"Ao teu Senhor buscai!\"",
+                "chorus": false
+            },
+            {
+                "content": "Hoje ansioso não mais ando,\nAo meu Senhor eu tudo conto.\nPaz excedente logo encontro\nQue guardará meu ser.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Passaste a ser minha",
+        "type": "canticle",
+        "number": "70",
+        "ref": [
+            "passaste-a-ser-minha",
+            "C-70"
+        ],
+        "lyrics": [
+            {
+                "content": "Passando Eu por junto de ti\nVi-te em tempos de amores.\nE sobre ti o Meu manto estendi,\nCobri a tua nudez.\nDei-te aliança, fiz juramento,\nDiz o Senhor;\nE passaste a ser Minha.",
+                "chorus": false
+            },
+            {
+                "content": "Com água Eu lavei a ti,\nCom óleo te ungi.\nDe finas roupas te vesti,\nDe linho te cingi.\nCom ouro e prata foste ornada,\nDiz o Senhor;\nE chegaste a rainha.",
+                "chorus": false
+            },
+            {
+                "content": "Te alimentei com fino manjar.\nEras formosa em extremo!\nE tua fama foi às nações\nPor causa do teu dulçor.\nPois Eu pusera em ti Mi'a glória,\nDiz o Senhor;\nE passaste a ser Minha.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Por Esta Causa",
+        "type": "canticle",
+        "number": "71",
+        "ref": [
+            "por-esta-causa",
+            "C-71"
+        ],
+        "lyrics": [
+            {
+                "content": "Por esta causa deixará o homem pai e mãe\nE se unirá à sua mulher,\nTornando-se os dois uma só carne.\nDe modo que já não são mais dois,\nPorém uma só carne.",
+                "chorus": false
+            },
+            {
+                "content": "Portanto, o que Deus ajuntou,\nO que Deus ajuntou,\nO que Deus ajuntou,\nNão o separe o homem.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Por isso O amo",
+        "type": "canticle",
+        "number": "72",
+        "ref": [
+            "por-isso-o-amo",
+            "C-72"
+        ],
+        "lyrics": [
+            {
+                "content": "No passado, pecador,\nSem descanso interior,\nCheio de angústia e dor,\nTinha sempre a consciência a me condenar.",
+                "chorus": false
+            },
+            {
+                "content": "Miserável, sempre errei,\nVaidade, só achei,\nAlegria vã busquei,\nUm vazio ganhei como galardão.",
+                "chorus": false
+            },
+            {
+                "content": "Ah! tão longe estava Deus,\nNo alto, intangível céu,\nMas um dia Ele desceu,\nAqui viveu,\nSeu sangue deu,\nNa cruz morreu por mim.",
+                "chorus": true
+            },
+            {
+                "content": "Por isso O amo,\nA Ele me apeguei,\nE Lhe entrego a vida e todo meu ser. [(bis)]",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Por Tua graça",
+        "type": "canticle",
+        "number": "73",
+        "ref": [
+            "por-tua-graça",
+            "C-73"
+        ],
+        "lyrics": [
+            {
+                "content": "Por Tua graça sou o que sou,\nCristo, és meu viver,\nPois se dependesse de mim\nNunca poderia vencer.\nMas pelo fato de Te conter\nEm meu interior,\nFortalecido, posso viver\nPara Ti, Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Logo pela manhã eu vou\nAgradar ao meu Senhor,\nDizer-Lhe coisas de amor,\nDerramar meu coração.",
+                "chorus": true
+            },
+            {
+                "content": "Qual prisioneiro, com os irmãos,\nTransformado sou,\nPois a Sua vida expressar\nÉ o que deseja o Senhor.\nMente, vontade e emoção\nEle vai ganhar,\nQuando no meu diário viver\nO Senhor tocar.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Primeiro amor",
+        "type": "canticle",
+        "number": "74",
+        "ref": [
+            "primeiro-amor",
+            "C-74"
+        ],
+        "lyrics": [
+            {
+                "content": "Nossas memórias nos omitem\nTodo o cenário de um passado,\nQuando o amor nos permitia\nO tempo, a espera e alegria;",
+                "chorus": false
+            },
+            {
+                "content": "Então os sonhos que brotavam\nIam tecendo a verdade -\nSurgia a sombra de um amor\nInscrito na eternidade.",
+                "chorus": false
+            },
+            {
+                "content": "Como o Senhor e Sua Noiva\nConfessam tal cumplicidade,\nEu rompo este meu bridão,\nTrago hoje o que é saudade.",
+                "chorus": false
+            },
+            {
+                "content": "Tua doçura ainda existe,\nEmbora tudo indique não;\nNossas desculpas já não ocultam,\nPerscruto, encontro árido chão.",
+                "chorus": false
+            },
+            {
+                "content": "E cabe a nós esta atitude\nSingela e cheia de emoção: \nPalavras ternas e um beijo\nArrebatam o coração",
+                "chorus": false
+            },
+            {
+                "content": "Resgatam doce sentimento,\nNos trazem toda a afeição,\nResplandece a história eterna: \nDeus e o homem em união.",
+                "chorus": false
+            },
+            {
+                "content": "Senhor amado, reaviva\nA essência deste amor que é Teu,\nNos livra do ressentimento,\nDistante, amargo não quero estar.",
+                "chorus": false
+            },
+            {
+                "content": "Recosta-nos no colo Teu,\nPrimeiro amor, tão excelente;\nNão prives Tua mão de mim,\nNossa história (é) eternamente.",
+                "chorus": false
+            },
+            {
+                "content": "Então me toques, me conquistes\nCom Teu amor e afeição;\nSenhor, nada há de separar,\nTe amo inteiro, és minha emoção.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Profundidade da riqueza",
+        "type": "canticle",
+        "number": "75",
+        "ref": [
+            "profundidade-da-riqueza",
+            "C-75"
+        ],
+        "lyrics": [
+            {
+                "content": "Oh! profundidade da riqueza,\nE da sabedoria e conhecimento de Deus!\nQuão insondáveis Seus juízos,\nInescrutáveis Seus caminhos\nQuem entendeu a mente do nosso Senhor?",
+                "chorus": false
+            },
+            {
+                "content": "Quem primeiro deu a Ele, depois recebeu\nPorque Dele e por Ele e para Ele\nSão todas as coisas.",
+                "chorus": false
+            },
+            {
+                "content": "Glória, glória [(irmãs)]\nGlórias serão dadas pois a\nEle eternamente. Amém. [(irmãos)]",
+                "chorus": false
+            },
+            {
+                "content": "Glórias serão dadas pois a Ele eternamente. Amém. [(final)]",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Quando cremos no Filho de Deus",
+        "type": "canticle",
+        "number": "76",
+        "ref": [
+            "quando-cremos-no-filho-de-deus",
+            "C-76"
+        ],
+        "lyrics": [
+            {
+                "content": "Oh! Quando cremos no Filho de Deus,\nNo Espírito somos um. [(bis)]",
+                "chorus": true
+            },
+            {
+                "content": "Somos um, [(irmãos)]\nSomos todos um; [(irmãs)]\nSomos um, [(irmãos)]\nSomos todos um; [(irmãs)]\nSomos um, [(irmãos)]\nSomos todos um; [(irmãs)]\nSomos um. [(todos)]",
+                "chorus": true
+            },
+            {
+                "content": "O mundo busca e espera a paz,\nMas guerras acontecem mais e mais.\nQuem pode pôr um fim em tal temor?\nTodo ódio e pesar, toda dor -\nMas temos Jesus!",
+                "chorus": false
+            },
+            {
+                "content": "Nós habitamos hoje em Seu amor,\nNossa unidade Ele restaurou.\nNuma família há irmãos e irmãs,\nComo Filho e o Pai são só um.\nAssim somos nós!",
+                "chorus": false
+            },
+            {
+                "content": "Oh! Como é agradável e quão bom\nQue vivam os irmãos em união,\nÉ como o orvalho vindo do Hermom!\nVida eterna para mim, pra você: \nTudo novo é!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Quanto mais perto estás",
+        "type": "canticle",
+        "number": "77",
+        "ref": [
+            "quanto-mais-perto-estás",
+            "C-77"
+        ],
+        "lyrics": [
+            {
+                "content": "Quanto mais perto estás,\nTão mais querido és,\nE Teu ser se torna em mim\nEm realidade assim.\nDando-me salvação,\nFé e esperança então,\nMeu tudo e meu amor\nÉs Tu, ó Senhor!",
+                "chorus": false
+            },
+            {
+                "content": "Mesmo que falte fé\nE esperança até,\nEu ouço a Tua voz: \n\"Confia em Mim e vê.\nTudo irei prover,\nBasta apenas crer;\nAs dúvidas vão ter fim;\nConfia em Mim!\nConfia em Mim!\"",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Que bela história",
+        "type": "canticle",
+        "number": "78",
+        "ref": [
+            "que-bela-história",
+            "C-78"
+        ],
+        "lyrics": [
+            {
+                "content": "Que bela história, de excelsa glória!\nDesceu o Salvador, Jesus, meu Redentor!\nNasceu outrora numa manjedoura,\nHomem de lágrimas, de angústia e dor!",
+                "chorus": false
+            },
+            {
+                "content": "Ó Cristo amado e adorado!\nÉs minha vida, meu tudo enfim!\nCriador, Seu nome, mas fez-se homem,\nCo'a plenitude de Deus em Si.",
+                "chorus": true
+            },
+            {
+                "content": "Que obediência! que condescendência!\nNaquela noite atroz, sem esperança pois,\nBondoso, doce, Deus, sim, humilhou-se,\nSalvou-me e conquistou, me recompôs.",
+                "chorus": false
+            },
+            {
+                "content": "Dom inefável! Tão incomparável!\nO Verbo se encarnou, no Calvário expirou.\nMistério imenso, foi ao mundo expresso,\nAgora sei que é o grande \"EU SOU\".",
+                "chorus": false
+            },
+            {
+                "content": "Ressuscitado, foi transfigurado,\nHoje é o Espír'to a fim de entrar em nós assim;\nQuer, pois, mesclar-se para dispensar-se\nE co'o Triúno Deus nos constituir.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Que grande amor",
+        "type": "canticle",
+        "number": "79",
+        "ref": [
+            "que-grande-amor",
+            "C-79"
+        ],
+        "lyrics": [
+            {
+                "content": "Morto estava nos delitos e pecados,\nSem esperança e sem Deus;\nMas Deus, sendo rico em misericórdia,\nO Seu Filho deu a mim!",
+                "chorus": false
+            },
+            {
+                "content": "Ele nada me exigiu,\nComo graça Se deu a mim.\nOh! que grande amor!\nO homem pecou, Deus o amou. [(bis)]",
+                "chorus": true
+            },
+            {
+                "content": "A lei conscientizou-me do pecado -\nMinha boca se calou.\nCristo, a Justiça de Deus, concedeu-me\nLiberdade, vida e paz.",
+                "chorus": false
+            },
+            {
+                "content": "Deus proveu um fim para a lei\nPela mão de um Mediador.\nOh! que gozo!\nPois Cristo é o fim para a lei. [(bis)]",
+                "chorus": true
+            },
+            {
+                "content": "Deus está mui satisfeito com a obra\nDo Seu Filho sobre a cruz;\nO meu coração também descansa com a\nMorte do Senhor Jesus.",
+                "chorus": false
+            },
+            {
+                "content": "Ele é o meu Redentor,\nAssumiu o pobre pecador!\nOh! que salvação!\nO meu Senhor ressuscitou! [(bis)]",
+                "chorus": true
+            },
+            {
+                "content": "Muito tempo se passou após a morte\nDo meu Redentor na cruz;\nTodo sacrifício de seu Filho, pôde\nDeus no Espír'to preservar!",
+                "chorus": false
+            },
+            {
+                "content": "Todo aquele que Nele crer,\nCom a boca O invocar: \nÓ Senhor Jesus!,\nA salvação receberá. [(bis)]",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Que Te fez morrer por mim?",
+        "type": "canticle",
+        "number": "80",
+        "ref": [
+            "que-te-fez-morrer-por-mim?",
+            "C-80"
+        ],
+        "lyrics": [
+            {
+                "content": "Oh! que Te fez morrer por mim,\nAlguém tão vil, Teu inimigo assim?\nTomaste meu lugar lá na cruz\nE foste maldito por mim, ó Jesus.",
+                "chorus": false
+            },
+            {
+                "content": "Tamanho amor e tal mercê\nJamais se viu; não pude entender.\nAmaste um inimigo Teu;\nOh! como amaste alguém como eu?",
+                "chorus": false
+            },
+            {
+                "content": "Oh! que Te fez morrer,\nTeu sangue aqui verter,\nE fez-Te maldição por mim?\nQue misterioso amor\nTe fez morrer, Senhor,\nE dar a vida aqui por mim?",
+                "chorus": true
+            },
+            {
+                "content": "Outrora eu zombei de Ti,\nTe desprezei, por muito tempo aqui,\nMas com paciente e forte amor,\nHá muito amaste a mim, ó Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Eu fui alguém que só pecou,\nE meu viver pecado expressou;\nRebelde foi o meu coração,\nMas Tu me tocaste com tal compaixão.",
+                "chorus": false
+            },
+            {
+                "content": "Fui inimigo Teu,\nMas Teu amor venceu;\nA mim vieste em amor.\nSomente Teu amor\nMe fez mudar, Senhor;\nSó Teu amor me conquistou.",
+                "chorus": true
+            },
+            {
+                "content": "Voltei-me a Ti, e estavas lá,\nCom Teu amor fiel a me esperar;\nNão pude mais lutar contra Ti,\nA esse tão forte amor me rendi.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Quem pode falar?",
+        "type": "canticle",
+        "number": "81",
+        "ref": [
+            "quem-pode-falar?",
+            "C-81"
+        ],
+        "lyrics": [
+            {
+                "content": "Quem pode falar das coisas lá do alto,\nSenão Aquele que de lá desceu?\nQuem pode falar dos teus problemas,\nSenão Aquele que te conheceu?",
+                "chorus": false
+            },
+            {
+                "content": "Quem pode falar do homem internamente,\nSenão Aquele que o teceu?\nPor isso eu aceito esta verdade: \nJesus Cristo é Deus!",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Realmente amo a Ti",
+        "type": "canticle",
+        "number": "82",
+        "ref": [
+            "realmente-amo-a-ti",
+            "C-82"
+        ],
+        "lyrics": [
+            {
+                "content": "Ó Senhor, amo a Ti,\nRealmente amo a Ti;\nSem Ti minha vida é vã.\nÉs formoso demais,\nCativante, me atrais!\nTens riquezas que não findam mais.",
+                "chorus": false
+            },
+            {
+                "content": "Teu nome doce e bom\nMe traz satisfação;\nÉs meu, Senhor, e eu sou Teu.\nBem mesclado a Ti,\nJá desfruto aqui\nDa Jerusalém nova por vir.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Regozijai-vos sempre",
+        "type": "canticle",
+        "number": "83",
+        "ref": [
+            "regozijai-vos-sempre",
+            "C-83"
+        ],
+        "lyrics": [
+            {
+                "content": "Regozijai-vos sempre,\nOrai sem cessar,\nEm tudo dai graças,\nPois esta é a vontade de Deus\nEm Cristo Jesus, para vós.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Renovados de dia em dia",
+        "type": "canticle",
+        "number": "84",
+        "ref": [
+            "renovados-de-dia-em-dia",
+            "C-84"
+        ],
+        "lyrics": [
+            {
+                "content": "Ao amanhecer,\nDesejo renovar-me;\nTendo comunhão com meu Deus,\nMais da Sua vida eu terei.",
+                "chorus": false
+            },
+            {
+                "content": "Se alguém está\nEm Cristo, é sempre novo;\nTudo ao redor coopera\nSempre para o seu renovar.",
+                "chorus": false
+            },
+            {
+                "content": "O meu Deus é sempre novo,\nInvocá-Lo é tão bom!\nTraz renovação ao meu ser,\nPois o próprio Deus habita em mim. [(bis)]",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Romance de um Casal Universal",
+        "type": "canticle",
+        "number": "85",
+        "ref": [
+            "romance-de-um-casal-universal",
+            "C-85"
+        ],
+        "lyrics": [
+            {
+                "content": "A Bíblia é um romance de um casal universal -\nDeus e o Seu povo eleito descrito é assim .\nTal em amor é visto bem do início ao fim;\nDeus em Cristo é o Noivo, a noiva:  os santos Seus.",
+                "chorus": false
+            },
+            {
+                "content": "Nos tipos e figuras vê-se o pensar de Deus;\nPor Adão tipificado, Cristo, o marido, é.\nDe Adão, uma costela, em Eva Deus tornou.\nTal é a igreja, Sua esposa - provém do próprio Deus.",
+                "chorus": false
+            },
+            {
+                "content": "Marido do Seu povo, Deus quer ser afinal.\nE tomá-lo por esposa, ter vida conjugal.\nAdoração e ofertas não podem O agradar,\nMas é Seu eterno almejo Seu povo desposar.",
+                "chorus": false
+            },
+            {
+                "content": "Tal sublime romance em Cânticos se vê;\nE os beijos do Amado anela a amada, sim.\nDe Cristo, a pessoa, na amada o amor produz,\nSe tornando uma Cidade que expressa a Deus por fim.",
+                "chorus": false
+            },
+            {
+                "content": "Cristo é o nosso Noivo, Sua noiva a igreja é,\nRedimida e regerada, do lado Seu provém,\nEm vida e natureza, completamente um,\nO Seu par eternamente - Nova Jerusalém.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Saireis com alegria",
+        "type": "canticle",
+        "number": "86",
+        "ref": [
+            "saireis-com-alegria",
+            "C-86"
+        ],
+        "lyrics": [
+            {
+                "content": "Saireis com alegria e em paz sereis guiados;\nOs montes e os outeiros romperão em cânticos\nDiante de vós, e todas as árvores,\nTodas as árvores do campo baterão palmas.",
+                "chorus": false
+            },
+            {
+                "content": "Em lugar do espinheiro, crescerá o cipreste,\nE em lugar da sarça crescerá a murta;\nE será isto glória para o nosso Senhor,\nE memorial eterno, que jamais será extinto.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Santa Unção",
+        "type": "canticle",
+        "number": "87",
+        "ref": [
+            "santa-unção",
+            "C-87"
+        ],
+        "lyrics": [
+            {
+                "content": "A unção é o mover de Deus em nós,\nProcedente do Santo,\nEspírito composto e da vida ela é.\nJá está em nós e permanece para sempre.",
+                "chorus": false
+            },
+            {
+                "content": "[(irmãs)] Santa unção, [(irmãos)] A unção é Seu constante mover,\n[(irmãs)] Vive em nós, [(irmãos)] O Senhor, a trabalhar em nós.\n[(irmãs)] Nos dá tudo [(irmãos)] Nos fazendo permanecer,\n[(irmãs)] No Senhor. [(irmãos)] No Senhor.",
+                "chorus": true
+            },
+            {
+                "content": "Temos o saber, que é pela unção do Espírito,\nUm conhecimento na vida\nA partir do nosso ser já regenerado,\nHabitado pelo Espírito composto.",
+                "chorus": false
+            },
+            {
+                "content": "[(irmãs)] Santa unção, [(irmãos)] A unção é Seu constante mover,\n[(irmãs)] Vive em nós, [(irmãos)] O Senhor, a trabalhar em nós.\n[(irmãs)] Nos dá tudo [(irmãos)] Nos fazendo permanecer,\n[(irmãs)] No Senhor. [(irmãos)] No Senhor.",
+                "chorus": true
+            },
+            {
+                "content": "Essa rica unção faz-nos conhecer o Pai,\nComo também toda a Verdade,\nTudo nos ensina, ensinamento real,\nA permanecermos em nosso Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "[(irmãs)] Sua essência, [(irmãos)] Sua vida e natureza traz,\n[(irmãs)] Transfunde em nós, [(irmãos)] Constitui e planta em nós\n[(irmãs)] Pra chegarmos, [(irmãos)] Até sermos conformados,\n[(irmãs)] À expressão. [(irmãos)] À expressão.",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Se deseja o Senhor",
+        "type": "canticle",
+        "number": "88",
+        "ref": [
+            "se-deseja-o-senhor",
+            "C-88"
+        ],
+        "lyrics": [
+            {
+                "content": "Se deseja o Senhor, não vá ao mundo procurar,\nPois no mundo você nunca O achará.\nNão achará, [(4 vezes)]\nPois no mundo você nunca O achará.",
+                "chorus": false
+            },
+            {
+                "content": "Se deseja o Senhor, na mente não O encontrará,\nPois a mente não é onde Ele estará.\nNão estará, [(4 vezes)]\nPois a mente não é onde Ele estará.",
+                "chorus": false
+            },
+            {
+                "content": "Se deseja o Senhor agora abra o coração,\nBasta o coração abrir-Lhe, deixá-Lo entrar;\nDeixá-Lo entrar, [(4 vezes)]\nBasta o coração abrir-Lhe, deixá-Lo entrar.",
+                "chorus": false
+            },
+            {
+                "content": "Se deseja o Senhor é só Seu nome invocar,\nO Seu nome invocando, Ele entrará.\nSenhor Jesus, [(4 vezes)]\nO Seu nome invocando, Ele entrará.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Se no espír'to hoje andar",
+        "type": "canticle",
+        "number": "89",
+        "ref": [
+            "se-no-espír'to-hoje-andar",
+            "C-89"
+        ],
+        "lyrics": [
+            {
+                "content": "Se no espír'to hoje andar,\nCom certeza vida obterá;\nE essa vida se estenderá\nPra edificar a casa de Deus.",
+                "chorus": false
+            },
+            {
+                "content": "Essa é a vida apta para edificar\nA casa de Deus.\nSe você quiser participar,\nUse o Cristo interior",
+                "chorus": true
+            },
+            {
+                "content": "Quando invocar \"Senhor Jesus\"\nAlgo novo ocorrerá: \nA sua mente se aquietará,\nE seu espír'to transbordará.",
+                "chorus": false
+            },
+            {
+                "content": "E ao tocar no Espír'to Seu,\nAlta vida receberá,\nQue vence a morte, fraqueza e dor,\nPois traz consigo a ressurreição.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Se o meu povo",
+        "type": "canticle",
+        "number": "90",
+        "ref": [
+            "se-o-meu-povo",
+            "C-90"
+        ],
+        "lyrics": [
+            {
+                "content": "Se o Meu povo\nQue se chama pelo Meu nome,\nSe humilhar, orar e Me buscar.",
+                "chorus": false
+            },
+            {
+                "content": "Se o Meu povo\nQue se chama pelo Meu nome,\nSe converter dos seus caminhos maus.",
+                "chorus": false
+            },
+            {
+                "content": "Então Eu ouvirei dos céus,\nPerdoarei os seus pecados\nE sararei, e sararei a sua terra.",
+                "chorus": false
+            },
+            {
+                "content": "Estarão abertos os Meus olhos\nE atentos os meus ouvidos\nÀ oração que se fizer neste lugar.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Só um toque Teu, Senhor",
+        "type": "canticle",
+        "number": "91",
+        "ref": [
+            "só-um-toque-teu,-senhor",
+            "C-91"
+        ],
+        "lyrics": [
+            {
+                "content": "Só um toque Teu, Senhor,\nSó em ver o Teu olhar,\nSó um beijo Teu,\nMeu tudo, meu Amor.",
+                "chorus": false
+            },
+            {
+                "content": "Quero ouvir-Te outra vez,\nMinha escolha só Tu és;\nFala-me em amor,\nMe desperdiço em Ti.",
+                "chorus": false
+            },
+            {
+                "content": "Nada, ninguém me satisfaz,\nSó Tu, meu Senhor!\nCristo, Te amo, Tu és meu desejo,\nSenhor, só amo a Ti.",
+                "chorus": true
+            },
+            {
+                "content": "Vou de novo Te tocar,\nMais e mais Te anelar,\nTu és o melhor,\nVou tudo o mais deixar.",
+                "chorus": false
+            },
+            {
+                "content": "Por Teus beijos, ó Senhor,\nDos meus lábios flui louvor.\nPlena graça tens;\nQuão doce Teu sabor!",
+                "chorus": false
+            },
+            {
+                "content": "Nada, ninguém me satisfaz,\nSó Tu, meu Senhor!\nÉs meu primeiro amor,\nme inflamas,\nSenhor, desejo a Ti.",
+                "chorus": true
+            },
+            {
+                "content": "Que me infunda Teu olhar,\nTal enlace satisfaz;\nAo Te contemplar,\nSaturas-me, Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Suficiente és para mim,\nNada posso eu, sem Ti.\nOh! mantém-me em Ti,\nUnido a Ti, Senhor.",
+                "chorus": false
+            },
+            {
+                "content": "Nada, ninguém me satisfaz,\nSó Tu, meu Senhor!\nCristo, Te amo; Tu és meu desejo,\nSenhor, inflama meu ser.",
+                "chorus": true
+            },
+            {
+                "content": "Vou-me arrepender, voltar;\nFaz meu coração queimar;\nPõe tal zelo em mim,\nÉs mui real, enfim.",
+                "chorus": false
+            },
+            {
+                "content": "Vou-me arrepender, voltar;\nFaz meu coração queimar;\nPõe tal zelo em mim,\nÉs mui real, enfim.",
+                "chorus": false
+            },
+            {
+                "content": "És meu amor, o primeiro e melhor!\nMe volto agora a Ti!\nÉs meu amor, o primeiro e melhor!\nSenhor, só amo a Ti!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Tão grande salvação",
+        "type": "canticle",
+        "number": "92",
+        "ref": [
+            "tão-grande-salvação",
+            "C-92"
+        ],
+        "lyrics": [
+            {
+                "content": "O Deus dos hebreus fala aos Seus\nPor Seu Filho Amado, o herdeiro Seu,\nLhe foi confiado eterno reinado;\nDepois de ungi-Lo à igreja O deu;\nLhe foi confiado eterno reinado;\nDepois de ungi-Lo à igreja O deu.",
+                "chorus": false
+            },
+            {
+                "content": "Rios, rios - atravessar!\nCom Cristo à frente, o prêmio alcançar.\nOrar, cantar, Seu nome invocar\nNos levam os rios atravessar.",
+                "chorus": true
+            },
+            {
+                "content": "E tal Capitão da Salvação,\nFoi homem de dores, que morte sofreu.\nSeu sangue jorrado, o véu já rasgado\nAo Santo dos Santos, caminho nos deu.\nSeu sangue jorrado, o véu já rasgado\nAo Santo dos Santos, caminho nos deu.",
+                "chorus": false
+            },
+            {
+                "content": "Oh! que salvação! Livres de Adão,\nEm Cristo, alcançamos santificação.\nTal Filho Amado, a vis pecadores,\nDeclara Seu nome e os chama irmãos.\nTal Filho Amado, a vis pecadores,\nDeclara Seu nome e os chama irmãos.",
+                "chorus": false
+            },
+            {
+                "content": "Cristo, Cristo - Nossa porção!\nContigo cantamos mais uma canção.\nTão grande salvação deste a nós!\nPor isso, erguemos a nossa voz!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Tu és meu primeiro amor",
+        "type": "canticle",
+        "number": "93",
+        "ref": [
+            "tu-és-meu-primeiro-amor",
+            "C-93"
+        ],
+        "lyrics": [
+            {
+                "content": "Tu és meu primeiro amor, todo o meu amor a Ti,\nPois ganhaste-me co'amor, sempre gozo em Ti terei.\nOh! Te amo, meu Senhor, não só pelos feitos Teus.\nNada pode Te igualar, Teu amor desfrutarei.",
+                "chorus": false
+            },
+            {
+                "content": "Quantas coisas, meu Senhor, provei,\nMas agora quero rejeitar,\nCom meu coração voltado a Ti,\nPara Teu amor eu ganhar.",
+                "chorus": true
+            },
+            {
+                "content": "Que me pode atrair, a não ser só Tu, Senhor?\nPois possuo um só querer:  por Ti ganho ser bem mais.\nTu és meu amor, Senhor, todo o meu amor a Ti,\nPois ganhaste-me co'amor, sempre em Ti terei a paz.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Vede que grande amor",
+        "type": "canticle",
+        "number": "94",
+        "ref": [
+            "vede-que-grande-amor",
+            "C-94"
+        ],
+        "lyrics": [
+            {
+                "content": "Vede que grande amor\nNos tem concedido o Pai,\nA ponto de sermos chamados filhos de Deus;\nE, de fato, somos filhos de Deus.\nE, de fato, somos filhos de Deus.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Vida santa",
+        "type": "canticle",
+        "number": "95",
+        "ref": [
+            "vida-santa",
+            "C-95"
+        ],
+        "lyrics": [
+            {
+                "content": "Vida santa, que a vinda do Senhor aguarda,\nDeus quer para mim, para mim;\nDia a dia do Espír'to sendo saturada\nMinh'alma, meu ser, e aprazer\nA Cristo assim.",
+                "chorus": false
+            },
+            {
+                "content": "Vida de orar sem cessar,\nE de se regozijar,\nNa comunhão a invocar:  Jesus!",
+                "chorus": true
+            },
+            {
+                "content": "Sempre vigilante e prudente aqui espero\nJesus, meu Senhor, meu Senhor;\nVivo a vida da igreja tendo um só anelo: \nA Cristo ganhar, e buscar\nCrescer em amor.",
+                "chorus": false
+            },
+            {
+                "content": "O Espír'to não apagar\nNão desprezar Seu falar,\nNa comunhão a invocar:  Jesus!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Vivendo o amor fraternal",
+        "type": "canticle",
+        "number": "96",
+        "ref": [
+            "vivendo-o-amor-fraternal",
+            "C-96"
+        ],
+        "lyrics": [
+            {
+                "content": "Na vida da igreja,\nCaminho excelente é o amor;\nManifestação da vida de Deus.\nAqui todos somos um;\nAmamos, no amor fraternal, os irmãos.\nSão nossa alegria,\nQuerida família,\nVivendo o amor fraternal.",
+                "chorus": false
+            },
+            {
+                "content": "Irmãos e irmãs são\nAcolhidos no coração;\nBarreiras, temores vão se dissipar.\nDe Deus vem o nosso amor,\nDeus nos edifica e une em amor.\nTal vida vivemos\nE prosseguiremos,\nSeguindo o amor fraternal.",
+                "chorus": false
+            },
+            {
+                "content": "Como em Filadélfia -\nA igreja louvada por Deus -\nEle abriu uma porta, ninguém fechará!\nPor ela entramos nós,\nComendo a Palavra, invocando o Senhor.\n'Té vires um dia,\nSenhor, pois, nos guia,\nSempre no amor fraternal.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Vós sois Dele",
+        "type": "canticle",
+        "number": "97",
+        "ref": [
+            "vós-sois-dele",
+            "C-97"
+        ],
+        "lyrics": [
+            {
+                "content": "Vós sois Dele em Cristo Jesus,\nO qual se nos tornou da parte de Deus\nSabedoria,\nE justiça,\nSantificação e redenção\nPra que aquele que se gloria\nGlorie-se no Senhor. (3 vezes)",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "A Teus pés, Senhor",
+        "type": "canticle",
+        "number": "98",
+        "ref": [
+            "a-teus-pés,-senhor",
+            "C-98"
+        ],
+        "lyrics": [
+            {
+                "content": "A Teus pés, Senhor, quero estar\nE regá-los quando eu chorar,\nCo'os cabelos os enxugar,\nCom ungüento ungi-los e beijá-los.",
+                "chorus": false
+            },
+            {
+                "content": "Te amo! Jesus, Te amo!\nDesperdiço a vida e tudo em Ti.\nSim, derramo o puro ungüento\nSobre Tua cabeça e pés,\nPois eu Te amo!\nQuão precioso és!",
+                "chorus": true
+            },
+            {
+                "content": "Com um nardo de grã valor\nQuero ungir Teus pés, ó Senhor,\nCo'os cabelos, os enxugar\n'Té que a casa se encha do aroma.",
+                "chorus": false
+            },
+            {
+                "content": "Te amo! Jesus, Te amo!\nDesperdiço a vida e tudo em Ti.\nSim, derramo o puro ungüento\nSobre Tua cabeça e pés,\nPois eu Te amo!\nQuão precioso és!",
+                "chorus": true
+            },
+            {
+                "content": "Qual profeta podes saber\nQuem eu sou e que é meu ser;\nSou apenas uma mulher,\nPecadora, indigna de ungir-Te.",
+                "chorus": false
+            },
+            {
+                "content": "Mas Te amo! Jesus Te amo!\nMais Te amo pois mais perdoada fui;\nSim, derramo o puro ungüento\nSobre Tua cabeça e pés\nPois me amaste!\nQuão precioso és!",
+                "chorus": true
+            },
+            {
+                "content": "Com amor Teus pés vou lavar,\nCom mi'a glória os enxugar,\nBeijar onde se vão ferir;\nMeu amor e mi'a glória por Ti verto.",
+                "chorus": false
+            },
+            {
+                "content": "Te amo, Jesus, Te amo!\nMeu amor e glória verto por Ti.\nOh! recebe meu ungüento\nÉ o que tenho pra Te dar,\nPois eu Te amo!\nTesouro sem par!",
+                "chorus": true
+            }
+        ]
+    },
+    {
+        "title": "Somos um",
+        "type": "canticle",
+        "number": "99",
+        "ref": [
+            "somos-um",
+            "C-99"
+        ],
+        "lyrics": [
+            {
+                "content": "Há somente um Corpo e um Espírito,\nUma só esperança, um só Senhor, uma só fé,\nUm só batismo, um só Deus e Pai de todos,\nO qual é sobre todos,\nAge pelo Corpo e está em todos.",
+                "chorus": false
+            },
+            {
+                "content": "Somos um, somos um,\nSomos um no Espírito de Deus,\nSomos membros do Corpo de Cristo,\nSomos um no Espírito de Deus.",
+                "chorus": false
+            }
+        ]
+    },
+    {
+        "title": "Terra de paz",
+        "type": "canticle",
+        "number": "100",
+        "ref": [
+            "terra-de-paz",
+            "C-100"
+        ],
+        "lyrics": [
+            {
+                "content": "Nunca mais se ouvirá de violência nesta terra,\nDe desolação ou de ruínas nos teus termos;\nMas aos teus muros chamarás Salvação.\nE às tuas portas, Louvor, Louvor.",
+                "chorus": false
+            },
+            {
+                "content": "Nunca mais te servirá o sol para luz do dia,\nNem com o seu resplendor a lua te alumiará;\nMas o Senhor será tua luz perpétua\nE o Teu Deus, tua glória, tua glória.",
+                "chorus": false
+            }
+        ]
+    }
+]
